@@ -1,0 +1,991 @@
+id|date|home_team|home_team_score|visit_team|visit_team_score
+311225018|2012-12-25|NY Knicks|106|Boston Celtics|104
+311227014|2012-12-27|Miami|115|Boston Celtics|107
+311228003|2012-12-28|New Orleans|97|Boston Celtics|78
+311230002|2012-12-30|Boston Celtics|96|Detroit|85
+320101027|2012-01-01|Washington|86|Boston Celtics|94
+320102002|2012-01-02|Boston Celtics|100|Washington|92
+320104002|2012-01-04|Boston Celtics|89|Brooklyn|70
+320106002|2012-01-06|Boston Celtics|74|Indiana|87
+320111002|2012-01-11|Boston Celtics|85|Dallas|90
+320113002|2012-01-13|Boston Celtics|79|Chicago|88
+320114011|2012-01-14|Indiana|97|Boston Celtics|83
+320116002|2012-01-16|Boston Celtics|88|Oklahoma City|97
+320118002|2012-01-18|Boston Celtics|96|Toronto|73
+320120002|2012-01-20|Boston Celtics|71|Phoenix|79
+320122027|2012-01-22|Washington|94|Boston Celtics|100
+320123002|2012-01-23|Boston Celtics|87|Orlando|56
+320126019|2012-01-26|Orlando|83|Boston Celtics|91
+320127002|2012-01-27|Boston Celtics|94|Indiana|87
+320129002|2012-01-29|Boston Celtics|87|Cleveland|88
+320131005|2012-01-31|Cleveland|90|Boston Celtics|93
+320201002|2012-02-01|Boston Celtics|100|Toronto|64
+320203002|2012-02-03|Boston Celtics|91|NY Knicks|89
+320205002|2012-02-05|Boston Celtics|98|Memphis|80
+320207002|2012-02-07|Boston Celtics|94|Charlotte|84
+320209002|2012-02-09|Boston Celtics|87|Los Angeles|88
+320210028|2012-02-10|Toronto|86|Boston Celtics|74
+320212002|2012-02-12|Boston Celtics|95|Chicago|91
+320215002|2012-02-15|Boston Celtics|88|Detroit|98
+320216004|2012-02-16|Chicago|89|Boston Celtics|80
+320219008|2012-02-19|Detroit|96|Boston Celtics|81
+320220006|2012-02-20|Dallas|89|Boston Celtics|73
+320222025|2012-02-22|Oklahoma City|119|Boston Celtics|104
+320228005|2012-02-28|Cleveland|83|Boston Celtics|86
+320229002|2012-02-29|Boston Celtics|102|Milwaukee|96
+320302002|2012-03-02|Boston Celtics|107|Brooklyn|94
+320304002|2012-03-04|Boston Celtics|115|NY Knicks|111
+320306002|2012-03-06|Boston Celtics|97|Houston|92
+320307020|2012-03-07|Philadelphia|103|Boston Celtics|71
+320309002|2012-03-09|Boston Celtics|104|Portland|86
+320311013|2012-03-11|Los Angeles|97|Boston Celtics|94
+320312012|2012-03-12|LA|85|Boston Celtics|94
+320314009|2012-03-14|Golden State|103|Boston Celtics|105
+320316023|2012-03-16|Sacramento|120|Boston Celtics|95
+320317007|2012-03-17|Denver|98|Boston Celtics|91
+320319001|2012-03-19|Atlanta|76|Boston Celtics|79
+320322015|2012-03-22|Milwaukee|91|Boston Celtics|100
+320323020|2012-03-23|Philadelphia|99|Boston Celtics|86
+320325002|2012-03-25|Boston Celtics|88|Washington|76
+320326030|2012-03-26|Charlotte|95|Boston Celtics|102
+320328002|2012-03-28|Boston Celtics|94|Utah|82
+320330016|2012-03-30|Minnesota|79|Boston Celtics|100
+320401002|2012-04-01|Boston Celtics|91|Miami|72
+320404002|2012-04-04|Boston Celtics|86|San Antonio|87
+320405004|2012-04-05|Chicago|93|Boston Celtics|86
+320407011|2012-04-07|Indiana|72|Boston Celtics|86
+320408002|2012-04-08|Boston Celtics|103|Philadelphia|79
+320410014|2012-04-10|Miami|107|Boston Celtics|115
+320411002|2012-04-11|Boston Celtics|88|Atlanta|86
+320413028|2012-04-13|Toronto|84|Boston Celtics|79
+320414017|2012-04-14|Brooklyn|82|Boston Celtics|94
+320415030|2012-04-15|Charlotte|82|Boston Celtics|94
+320417018|2012-04-17|NY Knicks|118|Boston Celtics|110
+320418002|2012-04-18|Boston Celtics|102|Orlando|98
+320420001|2012-04-20|Atlanta|97|Boston Celtics|92
+320424002|2012-04-24|Boston Celtics|78|Miami|66
+320426002|2012-04-26|Boston Celtics|87|Milwaukee|74
+311226027|2012-12-26|Washington|84|Brooklyn Nets|90
+311227017|2012-12-27|Brooklyn Nets|70|Atlanta|106
+311229019|2012-12-29|Orlando|94|Brooklyn Nets|78
+311230001|2012-12-30|Atlanta|105|Brooklyn Nets|98
+320101005|2012-01-01|Cleveland|98|Brooklyn Nets|82
+320102017|2012-01-02|Brooklyn Nets|94|Indiana|108
+320106028|2012-01-06|Toronto|85|Brooklyn Nets|97
+320107017|2012-01-07|Brooklyn Nets|90|Miami|101
+320109017|2012-01-09|Brooklyn Nets|101|Atlanta|106
+320111007|2012-01-11|Denver|123|Brooklyn Nets|115
+320113021|2012-01-13|Phoenix|103|Brooklyn Nets|110
+320114026|2012-01-14|Utah|107|Brooklyn Nets|94
+320116012|2012-01-16|LA|101|Brooklyn Nets|91
+320118017|2012-01-18|Brooklyn Nets|107|Golden State|100
+320121017|2012-01-21|Brooklyn Nets|74|Oklahoma City|84
+320122017|2012-01-22|Brooklyn Nets|97|Charlotte|87
+320123004|2012-01-23|Chicago|110|Brooklyn Nets|95
+320125020|2012-01-25|Philadelphia|90|Brooklyn Nets|97
+320127005|2012-01-27|Cleveland|96|Brooklyn Nets|99
+320129017|2012-01-29|Brooklyn Nets|73|Toronto|94
+320131011|2012-01-31|Indiana|106|Brooklyn Nets|99
+320201017|2012-02-01|Brooklyn Nets|99|Detroit|96
+320203017|2012-02-03|Brooklyn Nets|105|Minnesota|108
+320204018|2012-02-04|NY Knicks|99|Brooklyn Nets|92
+320206017|2012-02-06|Brooklyn Nets|87|Chicago|108
+320208017|2012-02-08|Brooklyn Nets|92|Detroit|99
+320210008|2012-02-10|Detroit|109|Brooklyn Nets|92
+320211017|2012-02-11|Brooklyn Nets|89|San Antonio|103
+320215017|2012-02-15|Brooklyn Nets|100|Memphis|105
+320216011|2012-02-16|Indiana|93|Brooklyn Nets|88
+320218004|2012-02-18|Chicago|85|Brooklyn Nets|97
+320219017|2012-02-19|Brooklyn Nets|85|Milwaukee|92
+320220018|2012-02-20|NY Knicks|92|Brooklyn Nets|100
+320222017|2012-02-22|Brooklyn Nets|91|Orlando|108
+320228006|2012-02-28|Dallas|92|Brooklyn Nets|93
+320304030|2012-03-04|Charlotte|101|Brooklyn Nets|104
+320306014|2012-03-06|Miami|108|Brooklyn Nets|78
+320307017|2012-03-07|Brooklyn Nets|101|LA|100
+320309030|2012-03-09|Charlotte|74|Brooklyn Nets|83
+320310017|2012-03-10|Brooklyn Nets|106|Houston|112
+320312017|2012-03-12|Brooklyn Nets|99|Milwaukee|105
+320314017|2012-03-14|Brooklyn Nets|98|Toronto|84
+320316019|2012-03-16|Orlando|86|Brooklyn Nets|70
+320317017|2012-03-17|Brooklyn Nets|94|New Orleans|102
+320319017|2012-03-19|Brooklyn Nets|100|Cleveland|105
+320321017|2012-03-21|Brooklyn Nets|89|Washington|108
+320323001|2012-03-23|Atlanta|93|Brooklyn Nets|84
+320324017|2012-03-24|Brooklyn Nets|102|Charlotte|89
+320326017|2012-03-26|Brooklyn Nets|84|Utah|105
+320328017|2012-03-28|Brooklyn Nets|100|Indiana|84
+320330009|2012-03-30|Golden State|100|Brooklyn Nets|102
+320331023|2012-03-31|Sacramento|99|Brooklyn Nets|111
+320403013|2012-04-03|Los Angeles|91|Brooklyn Nets|87
+320404022|2012-04-04|Portland|101|Brooklyn Nets|88
+320406017|2012-04-06|Brooklyn Nets|110|Washington|98
+320408017|2012-04-08|Brooklyn Nets|122|Cleveland|117
+320410017|2012-04-10|Brooklyn Nets|88|Philadelphia|107
+320413020|2012-04-13|Philadelphia|89|Brooklyn Nets|95
+320416017|2012-04-16|Brooklyn Nets|98|Miami|101
+320418017|2012-04-18|Brooklyn Nets|95|NY Knicks|104
+320421015|2012-04-21|Milwaukee|106|Brooklyn Nets|95
+320423017|2012-04-23|Brooklyn Nets|87|Philadelphia|105
+320426028|2012-04-26|Toronto|98|Brooklyn Nets|67
+311228009|2012-12-28|Golden State|92|New York Knicks|78
+311229013|2012-12-29|Los Angeles|99|New York Knicks|82
+311231023|2012-12-31|Sacramento|92|New York Knicks|114
+320102018|2012-01-02|New York Knicks|85|Toronto|90
+320104018|2012-01-04|New York Knicks|110|Charlotte|118
+320106027|2012-01-06|Washington|96|New York Knicks|99
+320107008|2012-01-07|Detroit|80|New York Knicks|103
+320109018|2012-01-09|New York Knicks|91|Charlotte|87
+320111018|2012-01-11|New York Knicks|85|Philadelphia|79
+320112029|2012-01-12|Memphis|94|New York Knicks|83
+320114025|2012-01-14|Oklahoma City|104|New York Knicks|92
+320116018|2012-01-16|New York Knicks|93|Orlando|102
+320118018|2012-01-18|New York Knicks|88|Phoenix|91
+320120018|2012-01-20|New York Knicks|86|Milwaukee|100
+320121018|2012-01-21|New York Knicks|114|Denver|119
+320124030|2012-01-24|Charlotte|78|New York Knicks|111
+320125005|2012-01-25|Cleveland|91|New York Knicks|81
+320127014|2012-01-27|Miami|99|New York Knicks|89
+320128010|2012-01-28|Houston|97|New York Knicks|84
+320131018|2012-01-31|New York Knicks|113|Detroit|86
+320202018|2012-02-02|New York Knicks|102|Chicago|105
+320206018|2012-02-06|New York Knicks|99|Utah|88
+320208027|2012-02-08|Washington|93|New York Knicks|107
+320210018|2012-02-10|New York Knicks|92|Los Angeles|85
+320211016|2012-02-11|Minnesota|98|New York Knicks|100
+320214028|2012-02-14|Toronto|87|New York Knicks|90
+320215018|2012-02-15|New York Knicks|100|Sacramento|85
+320217018|2012-02-17|New York Knicks|85|New Orleans|89
+320219018|2012-02-19|New York Knicks|104|Dallas|97
+320222018|2012-02-22|New York Knicks|99|Atlanta|82
+320223014|2012-02-23|Miami|102|New York Knicks|88
+320229018|2012-02-29|New York Knicks|120|Cleveland|103
+320306006|2012-03-06|Dallas|95|New York Knicks|85
+320307024|2012-03-07|San Antonio|118|New York Knicks|105
+320309015|2012-03-09|Milwaukee|119|New York Knicks|114
+320311018|2012-03-11|New York Knicks|94|Philadelphia|106
+320312004|2012-03-12|Chicago|104|New York Knicks|99
+320314018|2012-03-14|New York Knicks|121|Portland|79
+320316018|2012-03-16|New York Knicks|115|Indiana|100
+320317011|2012-03-17|Indiana|88|New York Knicks|102
+320320018|2012-03-20|New York Knicks|106|Toronto|87
+320321020|2012-03-21|Philadelphia|79|New York Knicks|82
+320323028|2012-03-23|Toronto|96|New York Knicks|79
+320324018|2012-03-24|New York Knicks|101|Detroit|79
+320326018|2012-03-26|New York Knicks|89|Milwaukee|80
+320328018|2012-03-28|New York Knicks|108|Orlando|86
+320330001|2012-03-30|Atlanta|100|New York Knicks|90
+320331018|2012-03-31|New York Knicks|91|Cleveland|75
+320403011|2012-04-03|Indiana|112|New York Knicks|104
+320405019|2012-04-05|Orlando|80|New York Knicks|96
+320408018|2012-04-08|New York Knicks|100|Chicago|99
+320410004|2012-04-10|Chicago|98|New York Knicks|86
+320411015|2012-04-11|Milwaukee|107|New York Knicks|111
+320413018|2012-04-13|New York Knicks|103|Washington|65
+320415018|2012-04-15|New York Knicks|85|Miami|93
+320420005|2012-04-20|Cleveland|98|New York Knicks|90
+320422001|2012-04-22|Atlanta|112|New York Knicks|113
+320425018|2012-04-25|New York Knicks|99|LA|93
+320426030|2012-04-26|Charlotte|84|New York Knicks|104
+311226022|2012-12-26|Portland|107|Philadelphia 76ers|103
+311228021|2012-12-28|Phoenix|83|Philadelphia 76ers|103
+311230026|2012-12-30|Utah|102|Philadelphia 76ers|99
+311231009|2012-12-31|Golden State|79|Philadelphia 76ers|107
+320104003|2012-01-04|New Orleans|93|Philadelphia 76ers|101
+320106020|2012-01-06|Philadelphia 76ers|96|Detroit|73
+320107020|2012-01-07|Philadelphia 76ers|97|Toronto|62
+320109020|2012-01-09|Philadelphia 76ers|96|Indiana|86
+320110020|2012-01-10|Philadelphia 76ers|112|Sacramento|85
+320113020|2012-01-13|Philadelphia 76ers|120|Washington|89
+320114027|2012-01-14|Washington|90|Philadelphia 76ers|103
+320116020|2012-01-16|Philadelphia 76ers|94|Milwaukee|82
+320118020|2012-01-18|Philadelphia 76ers|104|Denver|108
+320120020|2012-01-20|Philadelphia 76ers|90|Atlanta|76
+320121014|2012-01-21|Miami|113|Philadelphia 76ers|92
+320123020|2012-01-23|Philadelphia 76ers|103|Washington|83
+320127020|2012-01-27|Philadelphia 76ers|89|Charlotte|72
+320128020|2012-01-28|Philadelphia 76ers|95|Detroit|74
+320130020|2012-01-30|Philadelphia 76ers|74|Orlando|69
+320201020|2012-02-01|Philadelphia 76ers|98|Chicago|82
+320203020|2012-02-03|Philadelphia 76ers|79|Miami|99
+320204001|2012-02-04|Atlanta|87|Philadelphia 76ers|98
+320206020|2012-02-06|Philadelphia 76ers|95|Los Angeles|90
+320208020|2012-02-08|Philadelphia 76ers|90|San Antonio|100
+320210020|2012-02-10|Philadelphia 76ers|77|LA|78
+320211005|2012-02-11|Cleveland|84|Philadelphia 76ers|99
+320213030|2012-02-13|Charlotte|89|Philadelphia 76ers|98
+320215019|2012-02-15|Orlando|103|Philadelphia 76ers|87
+320217020|2012-02-17|Philadelphia 76ers|75|Dallas|82
+320219016|2012-02-19|Minnesota|92|Philadelphia 76ers|91
+320221029|2012-02-21|Memphis|89|Philadelphia 76ers|76
+320222010|2012-02-22|Houston|93|Philadelphia 76ers|87
+320228008|2012-02-28|Detroit|68|Philadelphia 76ers|97
+320229020|2012-02-29|Philadelphia 76ers|88|Oklahoma City|92
+320302020|2012-03-02|Philadelphia 76ers|105|Golden State|83
+320304020|2012-03-04|Philadelphia 76ers|91|Chicago|96
+320305015|2012-03-05|Milwaukee|97|Philadelphia 76ers|93
+320309020|2012-03-09|Philadelphia 76ers|104|Utah|91
+320314011|2012-03-14|Indiana|111|Philadelphia 76ers|94
+320316020|2012-03-16|Philadelphia 76ers|78|Miami|84
+320317004|2012-03-17|Chicago|89|Philadelphia 76ers|80
+320319030|2012-03-19|Charlotte|80|Philadelphia 76ers|105
+320325024|2012-03-25|San Antonio|93|Philadelphia 76ers|76
+320327020|2012-03-27|Philadelphia 76ers|103|Cleveland|85
+320330027|2012-03-30|Washington|97|Philadelphia 76ers|76
+320331020|2012-03-31|Philadelphia 76ers|95|Atlanta|90
+320403014|2012-04-03|Miami|99|Philadelphia 76ers|93
+320404020|2012-04-04|Philadelphia 76ers|78|Toronto|99
+320407020|2012-04-07|Philadelphia 76ers|82|Orlando|88
+320411028|2012-04-11|Toronto|75|Philadelphia 76ers|93
+320416019|2012-04-16|Orlando|113|Philadelphia 76ers|100
+320417020|2012-04-17|Philadelphia 76ers|97|Indiana|102
+320418005|2012-04-18|Cleveland|87|Philadelphia 76ers|103
+320421011|2012-04-21|Indiana|106|Philadelphia 76ers|109
+320425015|2012-04-25|Milwaukee|85|Philadelphia 76ers|90
+320426008|2012-04-26|Detroit|108|Philadelphia 76ers|86
+311226005|2012-12-26|Cleveland|96|Toronto Raptors|104
+311228028|2012-12-28|Toronto Raptors|85|Indiana|90
+311230006|2012-12-30|Dallas|99|Toronto Raptors|86
+320101019|2012-01-01|Orlando|102|Toronto Raptors|96
+320104028|2012-01-04|Toronto Raptors|92|Cleveland|77
+320109028|2012-01-09|Toronto Raptors|97|Minnesota|87
+320110027|2012-01-10|Washington|93|Toronto Raptors|78
+320111028|2012-01-11|Toronto Raptors|91|Sacramento|98
+320113028|2012-01-13|Toronto Raptors|90|Indiana|95
+320114004|2012-01-14|Chicago|77|Toronto Raptors|64
+320116001|2012-01-16|Atlanta|93|Toronto Raptors|84
+320120028|2012-01-20|Toronto Raptors|84|Portland|94
+320122012|2012-01-22|LA|103|Toronto Raptors|91
+320124021|2012-01-24|Phoenix|96|Toronto Raptors|99
+320125026|2012-01-25|Utah|106|Toronto Raptors|111
+320127007|2012-01-27|Denver|96|Toronto Raptors|81
+320131028|2012-01-31|Toronto Raptors|77|Atlanta|100
+320203028|2012-02-03|Toronto Raptors|106|Washington|89
+320205014|2012-02-05|Miami|95|Toronto Raptors|89
+320206027|2012-02-06|Washington|111|Toronto Raptors|108
+320208028|2012-02-08|Toronto Raptors|99|Milwaukee|105
+320212028|2012-02-12|Toronto Raptors|92|Los Angeles|94
+320215028|2012-02-15|Toronto Raptors|106|San Antonio|113
+320217028|2012-02-17|Toronto Raptors|91|Charlotte|98
+320222028|2012-02-22|Toronto Raptors|103|Detroit|93
+320228010|2012-02-28|Houston|88|Toronto Raptors|85
+320229003|2012-02-29|New Orleans|84|Toronto Raptors|95
+320302028|2012-03-02|Toronto Raptors|99|Memphis|102
+320304028|2012-03-04|Toronto Raptors|83|Golden State|75
+320305028|2012-03-05|Toronto Raptors|88|Orlando|92
+320307028|2012-03-07|Toronto Raptors|116|Houston|98
+320310008|2012-03-10|Detroit|105|Toronto Raptors|86
+320311028|2012-03-11|Toronto Raptors|99|Milwaukee|105
+320313005|2012-03-13|Cleveland|88|Toronto Raptors|96
+320316029|2012-03-16|Memphis|110|Toronto Raptors|114
+320317030|2012-03-17|Charlotte|107|Toronto Raptors|103
+320321028|2012-03-21|Toronto Raptors|82|Chicago|94
+320324004|2012-03-24|Chicago|102|Toronto Raptors|101
+320326028|2012-03-26|Toronto Raptors|101|Orlando|117
+320328028|2012-03-28|Toronto Raptors|105|Denver|96
+320330028|2012-03-30|Toronto Raptors|101|Miami|113
+320401028|2012-04-01|Toronto Raptors|99|Washington|92
+320403028|2012-04-03|Toronto Raptors|92|Charlotte|87
+320406028|2012-04-06|Toronto Raptors|80|Cleveland|84
+320408025|2012-04-08|Oklahoma City|91|Toronto Raptors|75
+320409011|2012-04-09|Indiana|103|Toronto Raptors|98
+320415001|2012-04-15|Atlanta|86|Toronto Raptors|102
+320416028|2012-04-16|Toronto Raptors|87|Atlanta|109
+320418014|2012-04-18|Miami|96|Toronto Raptors|72
+320422008|2012-04-22|Detroit|76|Toronto Raptors|73
+320423015|2012-04-23|Milwaukee|92|Toronto Raptors|86
+311225009|2012-12-25|Golden State Warriors|86|LA|105
+311226009|2012-12-26|Golden State Warriors|99|Chicago|91
+320102021|2012-01-02|Phoenix|102|Golden State Warriors|91
+320104024|2012-01-04|San Antonio|101|Golden State Warriors|95
+320106013|2012-01-06|Los Angeles|97|Golden State Warriors|90
+320107009|2012-01-07|Golden State Warriors|87|Utah|88
+320110009|2012-01-10|Golden State Warriors|111|Miami|106
+320112009|2012-01-12|Golden State Warriors|109|Orlando|117
+320114030|2012-01-14|Charlotte|112|Golden State Warriors|100
+320115008|2012-01-15|Detroit|91|Golden State Warriors|99
+320117005|2012-01-17|Cleveland|95|Golden State Warriors|105
+320120009|2012-01-20|Golden State Warriors|91|Indiana|94
+320123009|2012-01-23|Golden State Warriors|90|Memphis|91
+320125009|2012-01-25|Golden State Warriors|101|Portland|93
+320127009|2012-01-27|Golden State Warriors|109|Oklahoma City|120
+320131009|2012-01-31|Golden State Warriors|93|Sacramento|90
+320202009|2012-02-02|Golden State Warriors|119|Utah|101
+320204023|2012-02-04|Sacramento|114|Golden State Warriors|106
+320207009|2012-02-07|Golden State Warriors|116|Oklahoma City|119
+320209007|2012-02-09|Denver|101|Golden State Warriors|109
+320212009|2012-02-12|Golden State Warriors|106|Houston|97
+320213009|2012-02-13|Golden State Warriors|102|Phoenix|96
+320215009|2012-02-15|Golden State Warriors|91|Portland|93
+320217025|2012-02-17|Oklahoma City|110|Golden State Warriors|87
+320218029|2012-02-18|Memphis|104|Golden State Warriors|103
+320220009|2012-02-20|Golden State Warriors|104|LA|97
+320222021|2012-02-22|Phoenix|104|Golden State Warriors|106
+320228011|2012-02-28|Indiana|102|Golden State Warriors|78
+320229001|2012-02-29|Atlanta|82|Golden State Warriors|85
+320305027|2012-03-05|Washington|100|Golden State Warriors|120
+320307009|2012-03-07|Golden State Warriors|92|Memphis|110
+320310009|2012-03-10|Golden State Warriors|111|Dallas|87
+320311012|2012-03-11|LA|93|Golden State Warriors|97
+320313023|2012-03-13|Sacramento|89|Golden State Warriors|115
+320316009|2012-03-16|Golden State Warriors|98|Milwaukee|120
+320317026|2012-03-17|Utah|99|Golden State Warriors|92
+320319009|2012-03-19|Golden State Warriors|93|Minnesota|97
+320321003|2012-03-21|New Orleans|92|Golden State Warriors|101
+320322010|2012-03-22|Houston|109|Golden State Warriors|83
+320324009|2012-03-24|Golden State Warriors|111|Sacramento|108
+320325022|2012-03-25|Portland|90|Golden State Warriors|87
+320327009|2012-03-27|Golden State Warriors|101|Los Angeles|104
+320328009|2012-03-28|Golden State Warriors|87|New Orleans|102
+320401013|2012-04-01|Los Angeles|120|Golden State Warriors|112
+320403029|2012-04-03|Memphis|98|Golden State Warriors|94
+320404016|2012-04-04|Minnesota|94|Golden State Warriors|97
+320406026|2012-04-06|Utah|104|Golden State Warriors|98
+320407009|2012-04-07|Golden State Warriors|112|Denver|97
+320409007|2012-04-09|Denver|123|Golden State Warriors|84
+320411022|2012-04-11|Portland|118|Golden State Warriors|110
+320412009|2012-04-12|Golden State Warriors|103|Dallas|112
+320414012|2012-04-14|LA|112|Golden State Warriors|104
+320416009|2012-04-16|Golden State Warriors|99|San Antonio|120
+320418009|2012-04-18|Golden State Warriors|87|Los Angeles|99
+320420006|2012-04-20|Dallas|104|Golden State Warriors|94
+320421010|2012-04-21|Houston|99|Golden State Warriors|96
+320422016|2012-04-22|Minnesota|88|Golden State Warriors|93
+320424009|2012-04-24|Golden State Warriors|81|New Orleans|83
+320426009|2012-04-26|Golden State Warriors|101|San Antonio|107
+311228024|2012-12-28|San Antonio|115|LA Clippers|90
+311230012|2012-12-30|LA Clippers|101|Chicago|114
+320101012|2012-01-01|LA Clippers|93|Portland|88
+320104012|2012-01-04|LA Clippers|117|Houston|89
+320107012|2012-01-07|LA Clippers|92|Milwaukee|86
+320110022|2012-01-10|Portland|105|LA Clippers|97
+320111012|2012-01-11|LA Clippers|95|Miami|89
+320114012|2012-01-14|LA Clippers|102|Los Angeles|94
+320117026|2012-01-17|Utah|108|LA Clippers|79
+320118012|2012-01-18|LA Clippers|91|Dallas|89
+320120012|2012-01-20|LA Clippers|98|Minnesota|101
+320125013|2012-01-25|Los Angeles|96|LA Clippers|91
+320126012|2012-01-26|LA Clippers|98|Memphis|91
+320129007|2012-01-29|Denver|105|LA Clippers|109
+320130012|2012-01-30|LA Clippers|112|Oklahoma City|100
+320201026|2012-02-01|Utah|105|LA Clippers|107
+320202012|2012-02-02|LA Clippers|91|Denver|112
+320204027|2012-02-04|Washington|81|LA Clippers|107
+320206019|2012-02-06|Orlando|102|LA Clippers|107
+320208005|2012-02-08|Cleveland|99|LA Clippers|92
+320211030|2012-02-11|Charlotte|86|LA Clippers|111
+320213006|2012-02-13|Dallas|96|LA Clippers|92
+320215012|2012-02-15|LA Clippers|102|Washington|84
+320216022|2012-02-16|Portland|71|LA Clippers|74
+320218012|2012-02-18|LA Clippers|100|San Antonio|103
+320222012|2012-02-22|LA Clippers|103|Denver|95
+320228012|2012-02-28|LA Clippers|97|Minnesota|109
+320301023|2012-03-01|Sacramento|100|LA Clippers|108
+320302021|2012-03-02|Phoenix|81|LA Clippers|78
+320304010|2012-03-04|Houston|103|LA Clippers|105
+320305016|2012-03-05|Minnesota|95|LA Clippers|94
+320309024|2012-03-09|San Antonio|108|LA Clippers|120
+320314012|2012-03-14|LA Clippers|96|Atlanta|82
+320315012|2012-03-15|LA Clippers|87|Phoenix|91
+320317012|2012-03-17|LA Clippers|95|Houston|91
+320318012|2012-03-18|LA Clippers|87|Detroit|83
+320320011|2012-03-20|Indiana|102|LA Clippers|89
+320321025|2012-03-21|Oklahoma City|114|LA Clippers|91
+320322003|2012-03-22|New Orleans|97|LA Clippers|90
+320324012|2012-03-24|LA Clippers|101|Memphis|85
+320326012|2012-03-26|LA Clippers|97|New Orleans|85
+320328012|2012-03-28|LA Clippers|103|Phoenix|86
+320330012|2012-03-30|LA Clippers|98|Portland|97
+320331012|2012-03-31|LA Clippers|105|Utah|96
+320402006|2012-04-02|Dallas|75|LA Clippers|94
+320404012|2012-04-04|LA Clippers|108|Los Angeles|113
+320405023|2012-04-05|Sacramento|85|LA Clippers|93
+320407012|2012-04-07|LA Clippers|109|Sacramento|94
+320409029|2012-04-09|Memphis|94|LA Clippers|85
+320411025|2012-04-11|Oklahoma City|98|LA Clippers|100
+320412016|2012-04-12|Minnesota|82|LA Clippers|95
+320416012|2012-04-16|LA Clippers|92|Oklahoma City|77
+320418007|2012-04-18|Denver|98|LA Clippers|104
+320419021|2012-04-19|Phoenix|93|LA Clippers|90
+320422012|2012-04-22|LA Clippers|107|New Orleans|98
+320424001|2012-04-24|Atlanta|109|LA Clippers|102
+311225013|2012-12-25|Los Angeles Lakers|87|Chicago|88
+311226023|2012-12-26|Sacramento|100|Los Angeles Lakers|91
+311227013|2012-12-27|Los Angeles Lakers|96|Utah|71
+311231013|2012-12-31|Los Angeles Lakers|92|Denver|89
+320101007|2012-01-01|Denver|99|Los Angeles Lakers|90
+320103013|2012-01-03|Los Angeles Lakers|108|Houston|99
+320105022|2012-01-05|Portland|107|Los Angeles Lakers|96
+320108013|2012-01-08|Los Angeles Lakers|90|Memphis|82
+320110013|2012-01-10|Los Angeles Lakers|99|Phoenix|83
+320111026|2012-01-11|Utah|87|Los Angeles Lakers|90
+320113013|2012-01-13|Los Angeles Lakers|97|Cleveland|92
+320116013|2012-01-16|Los Angeles Lakers|73|Dallas|70
+320119014|2012-01-19|Miami|98|Los Angeles Lakers|87
+320120019|2012-01-20|Orlando|92|Los Angeles Lakers|80
+320122013|2012-01-22|Los Angeles Lakers|96|Indiana|98
+320128015|2012-01-28|Milwaukee|100|Los Angeles Lakers|89
+320129016|2012-01-29|Minnesota|101|Los Angeles Lakers|106
+320131013|2012-01-31|Los Angeles Lakers|106|Charlotte|73
+320203007|2012-02-03|Denver|89|Los Angeles Lakers|93
+320204026|2012-02-04|Utah|96|Los Angeles Lakers|87
+320214013|2012-02-14|Los Angeles Lakers|86|Atlanta|78
+320217013|2012-02-17|Los Angeles Lakers|111|Phoenix|99
+320219021|2012-02-19|Phoenix|102|Los Angeles Lakers|90
+320220013|2012-02-20|Los Angeles Lakers|103|Portland|92
+320222006|2012-02-22|Dallas|91|Los Angeles Lakers|96
+320223025|2012-02-23|Oklahoma City|100|Los Angeles Lakers|85
+320229013|2012-02-29|Los Angeles Lakers|104|Minnesota|85
+320302013|2012-03-02|Los Angeles Lakers|115|Sacramento|107
+320304013|2012-03-04|Los Angeles Lakers|93|Miami|83
+320306008|2012-03-06|Detroit|88|Los Angeles Lakers|85
+320307027|2012-03-07|Washington|106|Los Angeles Lakers|101
+320309016|2012-03-09|Minnesota|102|Los Angeles Lakers|105
+320313029|2012-03-13|Memphis|111|Los Angeles Lakers|116
+320314003|2012-03-14|New Orleans|101|Los Angeles Lakers|107
+320316013|2012-03-16|Los Angeles Lakers|97|Minnesota|92
+320318013|2012-03-18|Los Angeles Lakers|99|Utah|103
+320320010|2012-03-20|Houston|107|Los Angeles Lakers|104
+320321006|2012-03-21|Dallas|93|Los Angeles Lakers|109
+320323013|2012-03-23|Los Angeles Lakers|103|Portland|96
+320325013|2012-03-25|Los Angeles Lakers|96|Memphis|102
+320329013|2012-03-29|Los Angeles Lakers|93|Oklahoma City|102
+320331013|2012-03-31|Los Angeles Lakers|88|New Orleans|85
+320406013|2012-04-06|Los Angeles Lakers|107|Houston|112
+320407021|2012-04-07|Phoenix|125|Los Angeles Lakers|105
+320409003|2012-04-09|New Orleans|91|Los Angeles Lakers|93
+320411024|2012-04-11|San Antonio|84|Los Angeles Lakers|98
+320413013|2012-04-13|Los Angeles Lakers|103|Denver|97
+320415013|2012-04-15|Los Angeles Lakers|112|Dallas|108
+320417013|2012-04-17|Los Angeles Lakers|91|San Antonio|112
+320420024|2012-04-20|San Antonio|121|Los Angeles Lakers|97
+320422013|2012-04-22|Los Angeles Lakers|114|Oklahoma City|106
+320426023|2012-04-26|Sacramento|113|Los Angeles Lakers|96
+311226021|2012-12-26|Phoenix Suns|84|New Orleans|85
+311230003|2012-12-30|New Orleans|78|Phoenix Suns|93
+311231025|2012-12-31|Oklahoma City|107|Phoenix Suns|97
+320104006|2012-01-04|Dallas|98|Phoenix Suns|89
+320106021|2012-01-06|Phoenix Suns|102|Portland|77
+320108021|2012-01-08|Phoenix Suns|109|Milwaukee|93
+320112021|2012-01-12|Phoenix Suns|90|Cleveland|101
+320115024|2012-01-15|San Antonio|102|Phoenix Suns|91
+320117004|2012-01-17|Chicago|118|Phoenix Suns|97
+320123006|2012-01-23|Dallas|93|Phoenix Suns|87
+320127022|2012-01-27|Portland|109|Phoenix Suns|71
+320128021|2012-01-28|Phoenix Suns|86|Memphis|84
+320130021|2012-01-30|Phoenix Suns|99|Dallas|122
+320201003|2012-02-01|New Orleans|103|Phoenix Suns|120
+320203010|2012-02-03|Houston|99|Phoenix Suns|81
+320204021|2012-02-04|Phoenix Suns|95|Charlotte|89
+320206001|2012-02-06|Atlanta|90|Phoenix Suns|99
+320207015|2012-02-07|Milwaukee|105|Phoenix Suns|107
+320209021|2012-02-09|Phoenix Suns|89|Houston|96
+320211023|2012-02-11|Sacramento|84|Phoenix Suns|98
+320214007|2012-02-14|Denver|109|Phoenix Suns|92
+320215021|2012-02-15|Phoenix Suns|99|Atlanta|101
+320220021|2012-02-20|Phoenix Suns|104|Washington|88
+320301021|2012-03-01|Phoenix Suns|104|Minnesota|95
+320304021|2012-03-04|Phoenix Suns|96|Sacramento|88
+320307025|2012-03-07|Oklahoma City|115|Phoenix Suns|104
+320308021|2012-03-08|Phoenix Suns|96|Dallas|94
+320310021|2012-03-10|Phoenix Suns|98|Memphis|91
+320312021|2012-03-12|Phoenix Suns|124|Minnesota|127
+320314021|2012-03-14|Phoenix Suns|120|Utah|111
+320316021|2012-03-16|Phoenix Suns|109|Detroit|101
+320318021|2012-03-18|Phoenix Suns|99|Houston|86
+320320014|2012-03-20|Miami|99|Phoenix Suns|95
+320321019|2012-03-21|Orlando|103|Phoenix Suns|93
+320323011|2012-03-23|Indiana|111|Phoenix Suns|113
+320325005|2012-03-25|Cleveland|83|Phoenix Suns|108
+320327021|2012-03-27|Phoenix Suns|100|San Antonio|107
+320401021|2012-04-01|Phoenix Suns|92|New Orleans|75
+320403023|2012-04-03|Sacramento|100|Phoenix Suns|109
+320404026|2012-04-04|Utah|105|Phoenix Suns|107
+320406007|2012-04-06|Denver|105|Phoenix Suns|99
+320409016|2012-04-09|Minnesota|90|Phoenix Suns|114
+320411029|2012-04-11|Memphis|104|Phoenix Suns|93
+320413010|2012-04-13|Houston|105|Phoenix Suns|112
+320414024|2012-04-14|San Antonio|105|Phoenix Suns|91
+320416021|2012-04-16|Phoenix Suns|125|Portland|107
+320418021|2012-04-18|Phoenix Suns|97|Oklahoma City|109
+320421021|2012-04-21|Phoenix Suns|107|Denver|118
+320424026|2012-04-24|Utah|100|Phoenix Suns|88
+320425021|2012-04-25|Phoenix Suns|106|San Antonio|110
+311227022|2012-12-27|Portland|101|Sacramento Kings|79
+311229023|2012-12-29|Sacramento Kings|98|Chicago|108
+320101023|2012-01-01|Sacramento Kings|96|New Orleans|80
+320103029|2012-01-03|Memphis|113|Sacramento Kings|96
+320104007|2012-01-04|Denver|110|Sacramento Kings|83
+320105023|2012-01-05|Sacramento Kings|103|Milwaukee|100
+320108023|2012-01-08|Sacramento Kings|97|Orlando|104
+320113010|2012-01-13|Houston|103|Sacramento Kings|89
+320114006|2012-01-14|Dallas|99|Sacramento Kings|60
+320116016|2012-01-16|Minnesota|99|Sacramento Kings|86
+320118023|2012-01-18|Sacramento Kings|92|Indiana|88
+320120024|2012-01-20|San Antonio|86|Sacramento Kings|88
+320121029|2012-01-21|Memphis|128|Sacramento Kings|95
+320123022|2012-01-23|Portland|101|Sacramento Kings|89
+320125023|2012-01-25|Sacramento Kings|93|Denver|122
+320128026|2012-01-28|Utah|96|Sacramento Kings|93
+320202023|2012-02-02|Sacramento Kings|95|Portland|92
+320206003|2012-02-06|New Orleans|92|Sacramento Kings|100
+320207016|2012-02-07|Minnesota|86|Sacramento Kings|84
+320209023|2012-02-09|Sacramento Kings|106|Oklahoma City|101
+320214004|2012-02-14|Chicago|121|Sacramento Kings|115
+320217008|2012-02-17|Detroit|114|Sacramento Kings|108
+320219005|2012-02-19|Cleveland|93|Sacramento Kings|92
+320221014|2012-02-21|Miami|120|Sacramento Kings|108
+320222027|2012-02-22|Washington|107|Sacramento Kings|115
+320228023|2012-02-28|Sacramento Kings|103|Utah|96
+320305007|2012-03-05|Denver|119|Sacramento Kings|116
+320307023|2012-03-07|Sacramento Kings|99|New Orleans|98
+320309023|2012-03-09|Sacramento Kings|110|Dallas|97
+320311023|2012-03-11|Sacramento Kings|99|Atlanta|106
+320314023|2012-03-14|Sacramento Kings|112|Detroit|124
+320318023|2012-03-18|Sacramento Kings|115|Minnesota|99
+320320023|2012-03-20|Sacramento Kings|119|Memphis|110
+320322023|2012-03-22|Sacramento Kings|102|Utah|103
+320326010|2012-03-26|Houston|113|Sacramento Kings|106
+320328023|2012-03-28|Sacramento Kings|112|San Antonio|117
+320330026|2012-03-30|Utah|103|Sacramento Kings|104
+320402023|2012-04-02|Sacramento Kings|116|Minnesota|108
+320408023|2012-04-08|Sacramento Kings|87|Houston|104
+320410006|2012-04-10|Dallas|110|Sacramento Kings|100
+320411003|2012-04-11|New Orleans|105|Sacramento Kings|96
+320413025|2012-04-13|Oklahoma City|115|Sacramento Kings|89
+320415023|2012-04-15|Sacramento Kings|104|Portland|103
+320418023|2012-04-18|Sacramento Kings|102|San Antonio|127
+320420023|2012-04-20|Sacramento Kings|92|Oklahoma City|103
+320422030|2012-04-22|Charlotte|88|Sacramento Kings|114
+320424025|2012-04-24|Oklahoma City|118|Sacramento Kings|110
+320101004|2012-01-01|Chicago Bulls|104|Memphis|64
+320103004|2012-01-03|Chicago Bulls|76|Atlanta|74
+320104008|2012-01-04|Detroit|83|Chicago Bulls|99
+320106019|2012-01-06|Orlando|83|Chicago Bulls|97
+320107001|2012-01-07|Atlanta|109|Chicago Bulls|94
+320109004|2012-01-09|Chicago Bulls|92|Detroit|68
+320110016|2012-01-10|Minnesota|100|Chicago Bulls|111
+320111004|2012-01-11|Chicago Bulls|78|Washington|64
+320116029|2012-01-16|Memphis|102|Chicago Bulls|86
+320120005|2012-01-20|Cleveland|75|Chicago Bulls|114
+320121004|2012-01-21|Chicago Bulls|95|Charlotte|89
+320125004|2012-01-25|Chicago Bulls|90|Indiana|95
+320127004|2012-01-27|Chicago Bulls|107|Milwaukee|100
+320129014|2012-01-29|Miami|97|Chicago Bulls|93
+320130027|2012-01-30|Washington|88|Chicago Bulls|98
+320204015|2012-02-04|Milwaukee|90|Chicago Bulls|113
+320208003|2012-02-08|New Orleans|67|Chicago Bulls|90
+320210030|2012-02-10|Charlotte|64|Chicago Bulls|95
+320220004|2012-02-20|Chicago Bulls|90|Atlanta|79
+320222004|2012-02-22|Chicago Bulls|110|Milwaukee|91
+320228004|2012-02-28|Chicago Bulls|99|New Orleans|95
+320229024|2012-02-29|San Antonio|89|Chicago Bulls|96
+320302005|2012-03-02|Cleveland|91|Chicago Bulls|112
+320305004|2012-03-05|Chicago Bulls|92|Indiana|72
+320307015|2012-03-07|Milwaukee|104|Chicago Bulls|106
+320308004|2012-03-08|Chicago Bulls|94|Orlando|99
+320310004|2012-03-10|Chicago Bulls|111|Utah|97
+320314004|2012-03-14|Chicago Bulls|106|Miami|102
+320316004|2012-03-16|Chicago Bulls|89|Portland|100
+320319019|2012-03-19|Orlando|59|Chicago Bulls|85
+320326004|2012-03-26|Chicago Bulls|91|Denver|108
+320328001|2012-03-28|Atlanta|77|Chicago Bulls|98
+320330004|2012-03-30|Chicago Bulls|83|Detroit|71
+320401025|2012-04-01|Oklahoma City|92|Chicago Bulls|78
+320402004|2012-04-02|Chicago Bulls|93|Houston|99
+320412004|2012-04-12|Chicago Bulls|96|Miami|86
+320415008|2012-04-15|Detroit|94|Chicago Bulls|100
+320416004|2012-04-16|Chicago Bulls|84|Washington|87
+320418030|2012-04-18|Charlotte|68|Chicago Bulls|100
+320419014|2012-04-19|Miami|83|Chicago Bulls|72
+320421004|2012-04-21|Chicago Bulls|93|Dallas|83
+320425011|2012-04-25|Indiana|87|Chicago Bulls|92
+320426004|2012-04-26|Chicago Bulls|107|Cleveland|75
+311228008|2012-12-28|Detroit|89|Cleveland Cavaliers|105
+311230011|2012-12-30|Indiana|98|Cleveland Cavaliers|91
+320103005|2012-01-03|Cleveland Cavaliers|115|Charlotte|101
+320106016|2012-01-06|Minnesota|87|Cleveland Cavaliers|98
+320108022|2012-01-08|Portland|98|Cleveland Cavaliers|78
+320110026|2012-01-10|Utah|113|Cleveland Cavaliers|105
+320116030|2012-01-16|Charlotte|94|Cleveland Cavaliers|102
+320121001|2012-01-21|Atlanta|121|Cleveland Cavaliers|94
+320124014|2012-01-24|Miami|92|Cleveland Cavaliers|85
+320203019|2012-02-03|Orlando|102|Cleveland Cavaliers|94
+320204005|2012-02-04|Cleveland Cavaliers|91|Dallas|88
+320207014|2012-02-07|Miami|107|Cleveland Cavaliers|91
+320210005|2012-02-10|Cleveland Cavaliers|112|Milwaukee|113
+320215005|2012-02-15|Cleveland Cavaliers|98|Indiana|87
+320217005|2012-02-17|Cleveland Cavaliers|87|Miami|111
+320221005|2012-02-21|Cleveland Cavaliers|101|Detroit|100
+320222005|2012-02-22|Cleveland Cavaliers|84|New Orleans|89
+320303027|2012-03-03|Washington|101|Cleveland Cavaliers|98
+320305005|2012-03-05|Cleveland Cavaliers|100|Utah|109
+320307007|2012-03-07|Denver|99|Cleveland Cavaliers|100
+320309025|2012-03-09|Oklahoma City|90|Cleveland Cavaliers|96
+320311005|2012-03-11|Cleveland Cavaliers|118|Houston|107
+320314015|2012-03-14|Milwaukee|115|Cleveland Cavaliers|105
+320318005|2012-03-18|Cleveland Cavaliers|87|Atlanta|103
+320321001|2012-03-21|Atlanta|103|Cleveland Cavaliers|102
+320323019|2012-03-23|Orlando|93|Cleveland Cavaliers|80
+320328005|2012-03-28|Cleveland Cavaliers|75|Detroit|87
+320330005|2012-03-30|Cleveland Cavaliers|84|Milwaukee|121
+320403005|2012-04-03|Cleveland Cavaliers|90|San Antonio|125
+320404015|2012-04-04|Milwaukee|107|Cleveland Cavaliers|98
+320410005|2012-04-10|Cleveland Cavaliers|103|Charlotte|90
+320411005|2012-04-11|Cleveland Cavaliers|98|Indiana|104
+320413011|2012-04-13|Indiana|102|Cleveland Cavaliers|83
+320414027|2012-04-14|Washington|89|Cleveland Cavaliers|98
+320415005|2012-04-15|Cleveland Cavaliers|84|Orlando|100
+320417008|2012-04-17|Detroit|116|Cleveland Cavaliers|77
+320422024|2012-04-22|San Antonio|114|Cleveland Cavaliers|98
+320423029|2012-04-23|Memphis|109|Cleveland Cavaliers|101
+320425005|2012-04-25|Cleveland Cavaliers|85|Washington|96
+311226011|2012-12-26|Indiana|91|Detroit Pistons|79
+311231008|2012-12-31|Detroit Pistons|96|Indiana|88
+320102008|2012-01-02|Detroit Pistons|89|Orlando|78
+320110008|2012-01-10|Detroit Pistons|86|Dallas|100
+320112015|2012-01-12|Milwaukee|102|Detroit Pistons|93
+320113030|2012-01-13|Charlotte|81|Detroit Pistons|98
+320117010|2012-01-17|Houston|97|Detroit Pistons|80
+320118016|2012-01-18|Minnesota|93|Detroit Pistons|85
+320120008|2012-01-20|Detroit Pistons|81|Memphis|98
+320121008|2012-01-21|Detroit Pistons|94|Portland|91
+320123025|2012-01-23|Oklahoma City|99|Detroit Pistons|79
+320125008|2012-01-25|Detroit Pistons|98|Miami|101
+320127008|2012-01-27|Detroit Pistons|101|Atlanta|107
+320130015|2012-01-30|Milwaukee|103|Detroit Pistons|82
+320203008|2012-02-03|Detroit Pistons|88|Milwaukee|80
+320204008|2012-02-04|Detroit Pistons|89|New Orleans|87
+320212008|2012-02-12|Detroit Pistons|77|Washington|98
+320214008|2012-02-14|Detroit Pistons|95|San Antonio|99
+320229008|2012-02-29|Detroit Pistons|109|Charlotte|94
+320303029|2012-03-03|Memphis|100|Detroit Pistons|83
+320309008|2012-03-09|Detroit Pistons|86|Atlanta|85
+320312026|2012-03-12|Utah|105|Detroit Pistons|90
+320321007|2012-03-21|Denver|116|Detroit Pistons|115
+320323008|2012-03-23|Detroit Pistons|73|Miami|88
+320326027|2012-03-26|Washington|77|Detroit Pistons|79
+320331008|2012-03-31|Detroit Pistons|110|Charlotte|107
+320403008|2012-04-03|Detroit Pistons|102|Orlando|95
+320405008|2012-04-05|Detroit Pistons|99|Washington|94
+320406001|2012-04-06|Atlanta|101|Detroit Pistons|96
+320408014|2012-04-08|Miami|98|Detroit Pistons|75
+320409019|2012-04-09|Orlando|119|Detroit Pistons|89
+320412030|2012-04-12|Charlotte|85|Detroit Pistons|109
+320413008|2012-04-13|Detroit Pistons|97|Milwaukee|113
+320418001|2012-04-18|Atlanta|116|Detroit Pistons|84
+320419008|2012-04-19|Detroit Pistons|80|Minnesota|91
+320423011|2012-04-23|Indiana|103|Detroit Pistons|97
+320104014|2012-01-04|Miami|118|Indiana Pacers|83
+320107011|2012-01-07|Indiana Pacers|99|Charlotte|77
+320111011|2012-01-11|Indiana Pacers|96|Atlanta|84
+320124011|2012-01-24|Indiana Pacers|83|Orlando|102
+320129019|2012-01-29|Orlando|85|Indiana Pacers|106
+320201016|2012-02-01|Minnesota|99|Indiana Pacers|109
+320203006|2012-02-03|Dallas|87|Indiana Pacers|98
+320204011|2012-02-04|Indiana Pacers|81|Orlando|85
+320207011|2012-02-07|Indiana Pacers|104|Utah|99
+320208001|2012-02-08|Atlanta|97|Indiana Pacers|87
+320210029|2012-02-10|Memphis|98|Indiana Pacers|92
+320211011|2012-02-11|Indiana Pacers|109|Denver|113
+320214011|2012-02-14|Indiana Pacers|90|Miami|105
+320219011|2012-02-19|Indiana Pacers|108|Charlotte|73
+320221011|2012-02-21|Indiana Pacers|117|New Orleans|108
+320222030|2012-02-22|Charlotte|88|Indiana Pacers|102
+320303003|2012-03-03|New Orleans|84|Indiana Pacers|102
+320306011|2012-03-06|Indiana Pacers|96|Atlanta|101
+320310014|2012-03-10|Miami|93|Indiana Pacers|91
+320311019|2012-03-11|Orlando|107|Indiana Pacers|94
+320313011|2012-03-13|Indiana Pacers|92|Portland|75
+320322027|2012-03-22|Washington|83|Indiana Pacers|85
+320324015|2012-03-24|Milwaukee|104|Indiana Pacers|125
+320326011|2012-03-26|Indiana Pacers|105|Miami|90
+320329011|2012-03-29|Indiana Pacers|93|Washington|89
+320331024|2012-03-31|San Antonio|112|Indiana Pacers|103
+320401010|2012-04-01|Houston|102|Indiana Pacers|104
+320404027|2012-04-04|Washington|96|Indiana Pacers|109
+320406011|2012-04-06|Indiana Pacers|103|Oklahoma City|98
+320414015|2012-04-14|Milwaukee|99|Indiana Pacers|105
+320416011|2012-04-16|Indiana Pacers|111|Minnesota|88
+320419011|2012-04-19|Indiana Pacers|118|Milwaukee|109
+311226030|2012-12-26|Charlotte|96|Milwaukee Bucks|95
+311227015|2012-12-27|Milwaukee Bucks|98|Minnesota|95
+311230015|2012-12-30|Milwaukee Bucks|102|Washington|81
+320102007|2012-01-02|Denver|91|Milwaukee Bucks|86
+320103026|2012-01-03|Utah|85|Milwaukee Bucks|73
+320110015|2012-01-10|Milwaukee Bucks|106|San Antonio|103
+320113006|2012-01-13|Dallas|102|Milwaukee Bucks|76
+320117015|2012-01-17|Milwaukee Bucks|95|Denver|105
+320122014|2012-01-22|Miami|82|Milwaukee Bucks|91
+320123015|2012-01-23|Milwaukee Bucks|92|Atlanta|97
+320125010|2012-01-25|Houston|99|Milwaukee Bucks|105
+320201015|2012-02-01|Milwaukee Bucks|105|Miami|97
+320211015|2012-02-11|Milwaukee Bucks|94|Orlando|99
+320213015|2012-02-13|Milwaukee Bucks|96|Miami|114
+320215015|2012-02-15|Milwaukee Bucks|89|New Orleans|92
+320217019|2012-02-17|Orlando|94|Milwaukee Bucks|85
+320220015|2012-02-20|Milwaukee Bucks|90|Orlando|93
+320228015|2012-02-28|Milwaukee Bucks|119|Washington|118
+320302001|2012-03-02|Atlanta|99|Milwaukee Bucks|94
+320303019|2012-03-03|Orlando|114|Milwaukee Bucks|98
+320320022|2012-03-20|Portland|87|Milwaukee Bucks|116
+320323030|2012-03-23|Charlotte|92|Milwaukee Bucks|112
+320327015|2012-03-27|Milwaukee Bucks|108|Atlanta|101
+320331015|2012-03-31|Milwaukee Bucks|95|Memphis|99
+320402027|2012-04-02|Washington|98|Milwaukee Bucks|112
+320406015|2012-04-06|Milwaukee Bucks|95|Charlotte|90
+320407015|2012-04-07|Milwaukee Bucks|116|Portland|94
+320409015|2012-04-09|Milwaukee Bucks|89|Oklahoma City|109
+320418027|2012-04-18|Washington|121|Milwaukee Bucks|112
+311225006|2012-12-25|Dallas Mavericks|94|Miami|105
+311226006|2012-12-26|Dallas Mavericks|93|Denver|115
+311229025|2012-12-29|Oklahoma City|104|Dallas Mavericks|102
+320101016|2012-01-01|Minnesota|99|Dallas Mavericks|82
+320102006|2012-01-02|Dallas Mavericks|100|Oklahoma City|87
+320105024|2012-01-05|San Antonio|93|Dallas Mavericks|71
+320107006|2012-01-07|Dallas Mavericks|96|New Orleans|81
+320119026|2012-01-19|Utah|91|Dallas Mavericks|94
+320121003|2012-01-21|New Orleans|81|Dallas Mavericks|83
+320125006|2012-01-25|Dallas Mavericks|90|Minnesota|105
+320127006|2012-01-27|Dallas Mavericks|116|Utah|101
+320129006|2012-01-29|Dallas Mavericks|101|San Antonio|100
+320201006|2012-02-01|Dallas Mavericks|86|Oklahoma City|95
+320208007|2012-02-08|Denver|95|Dallas Mavericks|105
+320210016|2012-02-10|Minnesota|97|Dallas Mavericks|104
+320211006|2012-02-11|Dallas Mavericks|97|Portland|94
+320215006|2012-02-15|Dallas Mavericks|102|Denver|84
+320229029|2012-02-29|Memphis|96|Dallas Mavericks|85
+320302003|2012-03-02|New Orleans|97|Dallas Mavericks|92
+320303006|2012-03-03|Dallas Mavericks|102|Utah|96
+320305025|2012-03-05|Oklahoma City|95|Dallas Mavericks|91
+320313006|2012-03-13|Dallas Mavericks|107|Washington|98
+320315006|2012-03-15|Dallas Mavericks|101|Charlotte|96
+320317006|2012-03-17|Dallas Mavericks|106|San Antonio|99
+320319007|2012-03-19|Denver|95|Dallas Mavericks|112
+320323024|2012-03-23|San Antonio|104|Dallas Mavericks|87
+320324010|2012-03-24|Houston|99|Dallas Mavericks|101
+320327006|2012-03-27|Dallas Mavericks|90|Houston|81
+320329014|2012-03-29|Miami|106|Dallas Mavericks|85
+320330019|2012-03-30|Orlando|98|Dallas Mavericks|100
+320404006|2012-04-04|Dallas Mavericks|95|Memphis|85
+320406006|2012-04-06|Dallas Mavericks|97|Portland|99
+320407029|2012-04-07|Memphis|94|Dallas Mavericks|89
+320413022|2012-04-13|Portland|94|Dallas Mavericks|97
+320416026|2012-04-16|Utah|123|Dallas Mavericks|121
+320418006|2012-04-18|Dallas Mavericks|117|Houston|110
+320426001|2012-04-26|Atlanta|106|Dallas Mavericks|89
+311226019|2012-12-26|Orlando|104|Houston Rockets|95
+311229010|2012-12-29|Houston Rockets|105|San Antonio|85
+311230029|2012-12-30|Memphis|113|Houston Rockets|93
+311231010|2012-12-31|Houston Rockets|95|Atlanta|84
+320106025|2012-01-06|Oklahoma City|109|Houston Rockets|94
+320107010|2012-01-07|Houston Rockets|95|Oklahoma City|98
+320110030|2012-01-10|Charlotte|70|Houston Rockets|82
+320111024|2012-01-11|San Antonio|101|Houston Rockets|95
+320114010|2012-01-14|Houston Rockets|107|Portland|105
+320116027|2012-01-16|Washington|106|Houston Rockets|114
+320119010|2012-01-19|Houston Rockets|90|New Orleans|88
+320121010|2012-01-21|Houston Rockets|105|San Antonio|102
+320123016|2012-01-23|Minnesota|92|Houston Rockets|107
+320127010|2012-01-27|Houston Rockets|103|Washington|76
+320130010|2012-01-30|Houston Rockets|108|Minnesota|120
+320201024|2012-02-01|San Antonio|99|Houston Rockets|91
+320204016|2012-02-04|Minnesota|100|Houston Rockets|91
+320206007|2012-02-06|Denver|90|Houston Rockets|99
+320208022|2012-02-08|Portland|96|Houston Rockets|103
+320214029|2012-02-14|Memphis|93|Houston Rockets|83
+320215010|2012-02-15|Houston Rockets|96|Oklahoma City|95
+320217010|2012-02-17|Houston Rockets|98|Minnesota|111
+320219010|2012-02-19|Houston Rockets|101|Utah|85
+320220010|2012-02-20|Houston Rockets|97|Memphis|93
+320229026|2012-02-29|Utah|104|Houston Rockets|83
+320302010|2012-03-02|Houston Rockets|105|Denver|117
+320313025|2012-03-13|Oklahoma City|103|Houston Rockets|104
+320314010|2012-03-14|Houston Rockets|107|Charlotte|87
+320330010|2012-03-30|Houston Rockets|98|Memphis|89
+320409022|2012-04-09|Portland|89|Houston Rockets|94
+320411010|2012-04-11|Houston Rockets|91|Utah|103
+320415007|2012-04-15|Denver|101|Houston Rockets|86
+320416010|2012-04-16|Houston Rockets|102|Denver|105
+320419003|2012-04-19|New Orleans|105|Houston Rockets|99
+320422014|2012-04-22|Miami|97|Houston Rockets|88
+320426010|2012-04-26|Houston Rockets|84|New Orleans|77
+311226024|2012-12-26|San Antonio|95|Memphis Grizzlies|82
+311228029|2012-12-28|Memphis Grizzlies|95|Oklahoma City|98
+320104016|2012-01-04|Minnesota|86|Memphis Grizzlies|90
+320106026|2012-01-06|Utah|94|Memphis Grizzlies|85
+320110029|2012-01-10|Memphis Grizzlies|95|Oklahoma City|100
+320114029|2012-01-14|Memphis Grizzlies|108|New Orleans|99
+320118003|2012-01-18|New Orleans|87|Memphis Grizzlies|93
+320124022|2012-01-24|Portland|97|Memphis Grizzlies|84
+320130029|2012-01-30|Memphis Grizzlies|73|San Antonio|83
+320131029|2012-01-31|Memphis Grizzlies|100|Denver|97
+320202001|2012-02-02|Atlanta|77|Memphis Grizzlies|96
+320203025|2012-02-03|Oklahoma City|101|Memphis Grizzlies|94
+320206029|2012-02-06|Memphis Grizzlies|84|San Antonio|89
+320208029|2012-02-08|Memphis Grizzlies|85|Minnesota|80
+320212029|2012-02-12|Memphis Grizzlies|88|Utah|98
+320217029|2012-02-17|Memphis Grizzlies|103|Denver|102
+320311007|2012-03-11|Denver|91|Memphis Grizzlies|94
+320318029|2012-03-18|Memphis Grizzlies|97|Washington|92
+320322022|2012-03-22|Portland|97|Memphis Grizzlies|93
+320327029|2012-03-27|Memphis Grizzlies|93|Minnesota|86
+320402025|2012-04-02|Oklahoma City|88|Memphis Grizzlies|94
+320406014|2012-04-06|Miami|82|Memphis Grizzlies|97
+320412024|2012-04-12|San Antonio|107|Memphis Grizzlies|97
+320414029|2012-04-14|Memphis Grizzlies|103|Utah|98
+320415003|2012-04-15|New Orleans|88|Memphis Grizzlies|75
+320417016|2012-04-17|Minnesota|84|Memphis Grizzlies|91
+320418029|2012-04-18|Memphis Grizzlies|103|New Orleans|91
+320420030|2012-04-20|Charlotte|80|Memphis Grizzlies|85
+320421029|2012-04-21|Memphis Grizzlies|93|Portland|89
+320426029|2012-04-26|Memphis Grizzlies|88|Orlando|76
+320102026|2012-01-02|Utah|94|New Orleans Pelicans|90
+320106003|2012-01-06|New Orleans Pelicans|88|Denver|96
+320109007|2012-01-09|Denver|81|New Orleans Pelicans|94
+320111003|2012-01-11|New Orleans Pelicans|85|Oklahoma City|95
+320113003|2012-01-13|New Orleans Pelicans|80|Minnesota|87
+320116003|2012-01-16|New Orleans Pelicans|77|Portland|84
+320123003|2012-01-23|New Orleans Pelicans|102|San Antonio|104
+320125025|2012-01-25|Oklahoma City|101|New Orleans Pelicans|91
+320127003|2012-01-27|New Orleans Pelicans|93|Orlando|67
+320129003|2012-01-29|New Orleans Pelicans|72|Atlanta|94
+320130014|2012-01-30|Miami|109|New Orleans Pelicans|95
+320202024|2012-02-02|San Antonio|93|New Orleans Pelicans|81
+320210003|2012-02-10|New Orleans Pelicans|86|Portland|94
+320213003|2012-02-13|New Orleans Pelicans|86|Utah|80
+320220025|2012-02-20|Oklahoma City|101|New Orleans Pelicans|93
+320305022|2012-03-05|Portland|86|New Orleans Pelicans|74
+320309007|2012-03-09|Denver|110|New Orleans Pelicans|97
+320310016|2012-03-10|Minnesota|89|New Orleans Pelicans|95
+320312003|2012-03-12|New Orleans Pelicans|71|Charlotte|73
+320315003|2012-03-15|New Orleans Pelicans|89|Washington|99
+320324003|2012-03-24|New Orleans Pelicans|86|San Antonio|89
+320329022|2012-03-29|Portland|99|New Orleans Pelicans|93
+320404003|2012-04-04|New Orleans Pelicans|94|Denver|92
+320406024|2012-04-06|San Antonio|128|New Orleans Pelicans|103
+320407003|2012-04-07|New Orleans Pelicans|99|Minnesota|90
+320413003|2012-04-13|New Orleans Pelicans|96|Utah|85
+320416030|2012-04-16|Charlotte|67|New Orleans Pelicans|75
+311231024|2012-12-31|San Antonio Spurs|104|Utah|89
+320102016|2012-01-02|Minnesota|106|San Antonio Spurs|96
+320107024|2012-01-07|San Antonio Spurs|121|Denver|117
+320108025|2012-01-08|Oklahoma City|108|San Antonio Spurs|96
+320113024|2012-01-13|San Antonio Spurs|99|Portland|83
+320117014|2012-01-17|Miami|120|San Antonio Spurs|98
+320118019|2012-01-18|Orlando|83|San Antonio Spurs|85
+320125024|2012-01-25|San Antonio Spurs|105|Atlanta|83
+320127016|2012-01-27|Minnesota|87|San Antonio Spurs|79
+320204024|2012-02-04|San Antonio Spurs|107|Oklahoma City|96
+320220026|2012-02-20|Utah|102|San Antonio Spurs|106
+320221022|2012-02-21|Portland|137|San Antonio Spurs|97
+320223007|2012-02-23|Denver|99|San Antonio Spurs|114
+320302024|2012-03-02|San Antonio Spurs|102|Charlotte|72
+320304024|2012-03-04|San Antonio Spurs|94|Denver|99
+320312024|2012-03-12|San Antonio Spurs|112|Washington|97
+320314024|2012-03-14|San Antonio Spurs|122|Orlando|111
+320316025|2012-03-16|Oklahoma City|105|San Antonio Spurs|114
+320321024|2012-03-21|San Antonio Spurs|116|Minnesota|100
+320408024|2012-04-08|San Antonio Spurs|114|Utah|104
+320409026|2012-04-09|Utah|91|San Antonio Spurs|84
+320423024|2012-04-23|San Antonio Spurs|124|Portland|89
+311228001|2012-12-28|Atlanta Hawks|101|Washington|83
+320102014|2012-01-02|Miami|92|Atlanta Hawks|100
+320105001|2012-01-05|Atlanta Hawks|109|Miami|116
+320106030|2012-01-06|Charlotte|96|Atlanta Hawks|102
+320112001|2012-01-12|Atlanta Hawks|111|Charlotte|81
+320114001|2012-01-14|Atlanta Hawks|93|Minnesota|91
+320118001|2012-01-18|Atlanta Hawks|92|Portland|89
+320210019|2012-02-10|Orlando|87|Atlanta Hawks|89
+320212001|2012-02-12|Atlanta Hawks|87|Miami|107
+320218022|2012-02-18|Portland|97|Atlanta Hawks|77
+320223001|2012-02-23|Atlanta Hawks|83|Orlando|78
+320303001|2012-03-03|Atlanta Hawks|97|Oklahoma City|90
+320307014|2012-03-07|Miami|89|Atlanta Hawks|86
+320313007|2012-03-13|Denver|118|Atlanta Hawks|117
+320316001|2012-03-16|Atlanta Hawks|102|Washington|88
+320324027|2012-03-24|Washington|92|Atlanta Hawks|95
+320325001|2012-03-25|Atlanta Hawks|139|Utah|133
+320404001|2012-04-04|Atlanta Hawks|120|Charlotte|93
+320407030|2012-04-07|Charlotte|96|Atlanta Hawks|116
+320413019|2012-04-13|Orlando|81|Atlanta Hawks|109
+311228030|2012-12-28|Charlotte Hornets|95|Miami|96
+311230030|2012-12-30|Charlotte Hornets|79|Orlando|100
+320101014|2012-01-01|Miami|129|Charlotte Hornets|90
+320117019|2012-01-17|Orlando|96|Charlotte Hornets|89
+320125027|2012-01-25|Washington|92|Charlotte Hornets|75
+320128030|2012-01-28|Charlotte Hornets|99|Washington|102
+320201022|2012-02-01|Portland|112|Charlotte Hornets|68
+320215016|2012-02-15|Minnesota|102|Charlotte Hornets|90
+320306030|2012-03-06|Charlotte Hornets|100|Orlando|84
+320307030|2012-03-07|Charlotte Hornets|93|Utah|99
+320310025|2012-03-10|Oklahoma City|122|Charlotte Hornets|95
+320328030|2012-03-28|Charlotte Hornets|83|Minnesota|88
+320330030|2012-03-30|Charlotte Hornets|88|Denver|99
+320409030|2012-04-09|Charlotte Hornets|85|Washington|113
+320413014|2012-04-13|Miami|105|Charlotte Hornets|82
+320423027|2012-04-23|Washington|101|Charlotte Hornets|73
+320425019|2012-04-25|Orlando|102|Charlotte Hornets|95
+311230016|2012-12-30|Minnesota|101|Miami Heat|103
+320113007|2012-01-13|Denver|117|Miami Heat|104
+320208019|2012-02-08|Orlando|102|Miami Heat|89
+320210027|2012-02-10|Washington|89|Miami Heat|106
+320219014|2012-02-19|Miami Heat|90|Orlando|78
+320301022|2012-03-01|Portland|93|Miami Heat|107
+320302026|2012-03-02|Utah|99|Miami Heat|98
+320313019|2012-03-13|Orlando|104|Miami Heat|98
+320318014|2012-03-18|Miami Heat|91|Orlando|81
+320325025|2012-03-25|Oklahoma City|103|Miami Heat|87
+320404014|2012-04-04|Miami Heat|98|Oklahoma City|93
+320421014|2012-04-21|Miami Heat|84|Washington|86
+320426027|2012-04-26|Washington|104|Miami Heat|70
+311225025|2012-12-25|Oklahoma City|97|Orlando Magic|89
+320104019|2012-01-04|Orlando Magic|103|Washington|85
+320111022|2012-01-11|Portland|104|Orlando Magic|107
+320201019|2012-02-01|Orlando Magic|109|Washington|103
+320213019|2012-02-13|Orlando Magic|102|Minnesota|89
+320229027|2012-02-29|Washington|95|Orlando Magic|102
+320301019|2012-03-01|Orlando Magic|102|Oklahoma City|105
+320401019|2012-04-01|Orlando Magic|101|Denver|104
+320410027|2012-04-10|Washington|93|Orlando Magic|85
+320421026|2012-04-21|Utah|117|Orlando Magic|107
+320422007|2012-04-22|Denver|101|Orlando Magic|74
+320108027|2012-01-08|Washington Wizards|72|Minnesota|93
+320118027|2012-01-18|Washington Wizards|105|Oklahoma City|102
+320120027|2012-01-20|Washington Wizards|104|Denver|108
+320214022|2012-02-14|Portland|109|Washington Wizards|124
+320217026|2012-02-17|Utah|114|Washington Wizards|100
+320310027|2012-03-10|Washington Wizards|99|Portland|110
+311228007|2012-12-28|Denver Nuggets|117|Utah|100
+311229022|2012-12-29|Portland|111|Denver Nuggets|102
+320115007|2012-01-15|Denver Nuggets|96|Utah|106
+320204022|2012-02-04|Portland|117|Denver Nuggets|97
+320219025|2012-02-19|Oklahoma City|124|Denver Nuggets|118
+320220007|2012-02-20|Denver Nuggets|103|Minnesota|101
+320229007|2012-02-29|Denver Nuggets|104|Portland|95
+320315007|2012-03-15|Denver Nuggets|90|Oklahoma City|103
+320323026|2012-03-23|Utah|121|Denver Nuggets|102
+320325016|2012-03-25|Minnesota|117|Denver Nuggets|100
+320411007|2012-04-11|Denver Nuggets|113|Minnesota|107
+320425025|2012-04-25|Oklahoma City|101|Denver Nuggets|106
+320426016|2012-04-26|Minnesota|102|Denver Nuggets|131
+311226016|2012-12-26|Minnesota Timberwolves|100|Oklahoma City|104
+320121026|2012-01-21|Utah|108|Minnesota Timberwolves|98
+320222016|2012-02-22|Minnesota Timberwolves|100|Utah|98
+320303022|2012-03-03|Portland|110|Minnesota Timberwolves|122
+320307016|2012-03-07|Minnesota Timberwolves|106|Portland|94
+320315026|2012-03-15|Utah|111|Minnesota Timberwolves|105
+320323025|2012-03-23|Oklahoma City|149|Minnesota Timberwolves|140
+320401022|2012-04-01|Portland|119|Minnesota Timberwolves|106
+320414016|2012-04-14|Minnesota Timberwolves|110|Oklahoma City|115
+320103025|2012-01-03|Oklahoma City Thunder|93|Portland|103
+320206022|2012-02-06|Portland|107|Oklahoma City Thunder|111
+320210026|2012-02-10|Utah|87|Oklahoma City Thunder|101
+320214025|2012-02-14|Oklahoma City Thunder|111|Utah|85
+320318025|2012-03-18|Oklahoma City Thunder|111|Portland|95
+320320026|2012-03-20|Utah|97|Oklahoma City Thunder|90
+320327022|2012-03-27|Portland|95|Oklahoma City Thunder|109
+320130026|2012-01-30|Utah|93|Portland Trail Blazers|89
+320402022|2012-04-02|Portland Trail Blazers|97|Utah|102
+320418022|2012-04-18|Portland Trail Blazers|91|Utah|112
+320426026|2012-04-26|Utah|96|Portland Trail Blazers|94

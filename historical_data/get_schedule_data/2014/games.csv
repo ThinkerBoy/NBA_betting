@@ -1,0 +1,1231 @@
+id|date|home_team|home_team_score|visit_team|visit_team_score
+400488879|2014-10-30|Toronto|93|Boston Celtics|87
+400488897|2014-11-01|Boston Celtics|98|Milwaukee|105
+400488914|2014-11-03|Detroit|87|Boston Celtics|77
+400488922|2014-11-04|Memphis|95|Boston Celtics|88
+400488937|2014-11-06|Boston Celtics|97|Utah|87
+400488948|2014-11-08|Orlando|89|Boston Celtics|91
+400488962|2014-11-09|Miami|110|Boston Celtics|111
+400488974|2014-11-11|Boston Celtics|120|Orlando|105
+400488986|2014-11-13|Boston Celtics|83|Charlotte|89
+400489001|2014-11-15|Boston Celtics|96|Portland|109
+400489015|2014-11-16|Minnesota|106|Boston Celtics|88
+400489032|2014-11-19|Houston|109|Boston Celtics|85
+400489043|2014-11-20|San Antonio|104|Boston Celtics|93
+400489052|2014-11-22|Boston Celtics|82|Indiana|97
+400489063|2014-11-23|Atlanta|87|Boston Celtics|94
+400489075|2014-11-25|Charlotte|86|Boston Celtics|96
+400489090|2014-11-27|Boston Celtics|93|Memphis|100
+400489105|2014-11-29|Boston Celtics|103|Cleveland|86
+400489120|2014-11-30|Milwaukee|92|Boston Celtics|85
+400489135|2014-12-03|Boston Celtics|108|Milwaukee|100
+400489156|2014-12-06|Boston Celtics|106|Denver|98
+400489172|2014-12-08|NY Knicks|73|Boston Celtics|114
+400489187|2014-12-10|Brooklyn|104|Boston Celtics|96
+400489192|2014-12-11|Boston Celtics|88|LA|96
+400489206|2014-12-13|Boston Celtics|90|NY Knicks|86
+400489231|2014-12-16|Boston Celtics|101|Minnesota|97
+400489246|2014-12-18|Boston Celtics|106|Detroit|107
+400489266|2014-12-21|Boston Celtics|99|Washington|106
+400489277|2014-12-22|Indiana|106|Boston Celtics|79
+400489309|2014-12-28|Boston Celtics|103|Cleveland|100
+400489333|2014-12-31|Boston Celtics|91|Atlanta|92
+400489348|2014-01-02|Chicago|94|Boston Celtics|82
+400489357|2014-01-03|Boston Celtics|92|New Orleans|95
+400489375|2014-01-05|Oklahoma City|119|Boston Celtics|96
+400489390|2014-01-07|Denver|129|Boston Celtics|98
+400489401|2014-01-08|LA|111|Boston Celtics|105
+400489414|2014-01-10|Golden State|99|Boston Celtics|97
+400489424|2014-01-11|Portland|112|Boston Celtics|104
+400489429|2014-01-13|Boston Celtics|92|Houston|104
+400489442|2014-01-15|Boston Celtics|88|Toronto|83
+400489459|2014-01-17|Boston Celtics|104|Los Angeles|107
+400489475|2014-01-19|Orlando|93|Boston Celtics|91
+400489490|2014-01-21|Miami|93|Boston Celtics|86
+400489498|2014-01-22|Washington|111|Boston Celtics|113
+400489509|2014-01-24|Boston Celtics|83|Oklahoma City|101
+400489531|2014-01-26|Boston Celtics|79|Brooklyn|85
+400489543|2014-01-28|NY Knicks|114|Boston Celtics|88
+400489551|2014-01-29|Boston Celtics|94|Philadelphia|95
+400489582|2014-02-02|Boston Celtics|96|Orlando|89
+400489599|2014-02-05|Philadelphia|108|Boston Celtics|114
+400489616|2014-02-07|Boston Celtics|99|Sacramento|89
+400489631|2014-02-09|Boston Celtics|91|Dallas|102
+400489640|2014-02-10|Milwaukee|86|Boston Celtics|102
+400489653|2014-02-12|Boston Celtics|92|San Antonio|104
+400489680|2014-02-19|Phoenix|100|Boston Celtics|94
+400489697|2014-02-21|Los Angeles|101|Boston Celtics|92
+400489704|2014-02-22|Sacramento|105|Boston Celtics|98
+400489718|2014-02-24|Utah|110|Boston Celtics|98
+400489727|2014-02-26|Boston Celtics|115|Atlanta|104
+400489750|2014-03-01|Boston Celtics|97|Indiana|102
+400489780|2014-03-05|Boston Celtics|88|Golden State|108
+400489793|2014-03-07|Boston Celtics|91|Brooklyn|84
+400489810|2014-03-09|Boston Celtics|118|Detroit|111
+400489823|2014-03-11|Indiana|94|Boston Celtics|83
+400489835|2014-03-12|Boston Celtics|92|NY Knicks|116
+400489848|2014-03-14|Boston Celtics|80|Phoenix|87
+400489863|2014-03-16|New Orleans|121|Boston Celtics|120
+400489874|2014-03-17|Dallas|94|Boston Celtics|89
+400489882|2014-03-19|Boston Celtics|101|Miami|96
+400489899|2014-03-21|Brooklyn|114|Boston Celtics|98
+400489936|2014-03-26|Boston Celtics|90|Toronto|99
+400489949|2014-03-28|Toronto|105|Boston Celtics|103
+400489970|2014-03-30|Boston Celtics|102|Chicago|107
+400489979|2014-03-31|Chicago|94|Boston Celtics|80
+400489992|2014-04-02|Washington|118|Boston Celtics|92
+400490006|2014-04-04|Boston Celtics|102|Philadelphia|111
+400490019|2014-04-05|Detroit|115|Boston Celtics|111
+400490039|2014-04-09|Atlanta|105|Boston Celtics|97
+400490051|2014-04-11|Boston Celtics|106|Charlotte|103
+400490066|2014-04-12|Cleveland|99|Boston Celtics|111
+400490077|2014-04-14|Philadelphia|113|Boston Celtics|108
+400490095|2014-04-16|Boston Celtics|102|Washington|118
+400488877|2014-10-30|Cleveland|98|Brooklyn Nets|94
+400488901|2014-11-01|Brooklyn Nets|101|Miami|100
+400488916|2014-11-03|Orlando|107|Brooklyn Nets|86
+400488925|2014-11-05|Brooklyn Nets|104|Utah|88
+400488950|2014-11-08|Washington|112|Brooklyn Nets|108
+400488960|2014-11-09|Brooklyn Nets|91|Indiana|96
+400488994|2014-11-13|Sacramento|107|Brooklyn Nets|86
+400489005|2014-11-15|Phoenix|98|Brooklyn Nets|100
+400489019|2014-11-16|LA|110|Brooklyn Nets|103
+400489023|2014-11-18|Brooklyn Nets|98|Portland|108
+400489034|2014-11-20|Charlotte|95|Brooklyn Nets|91
+400489055|2014-11-22|Minnesota|111|Brooklyn Nets|81
+400489070|2014-11-24|Brooklyn Nets|97|Detroit|109
+400489084|2014-11-26|Toronto|100|Brooklyn Nets|102
+400489091|2014-11-27|Brooklyn Nets|94|Los Angeles|99
+400489107|2014-11-29|Houston|114|Brooklyn Nets|95
+400489116|2014-11-30|Memphis|88|Brooklyn Nets|97
+400489136|2014-12-03|Brooklyn Nets|87|Denver|111
+400489150|2014-12-05|Brooklyn Nets|83|NY Knicks|113
+400489168|2014-12-07|Milwaukee|82|Brooklyn Nets|90
+400489200|2014-12-12|Brooklyn Nets|102|LA|93
+400489207|2014-12-13|Detroit|103|Brooklyn Nets|99
+400489232|2014-12-16|Brooklyn Nets|130|Philadelphia|94
+400489247|2014-12-18|Brooklyn Nets|107|Washington|113
+400489256|2014-12-20|Philadelphia|121|Brooklyn Nets|120
+400489283|2014-12-23|Brooklyn Nets|86|Indiana|103
+400489291|2014-12-25|Brooklyn Nets|78|Chicago|95
+400489302|2014-12-27|Brooklyn Nets|104|Milwaukee|93
+400489310|2014-12-28|Indiana|105|Brooklyn Nets|91
+400489338|2014-12-31|San Antonio|113|Brooklyn Nets|92
+400489349|2014-01-02|Oklahoma City|93|Brooklyn Nets|95
+400489364|2014-01-04|Brooklyn Nets|89|Cleveland|82
+400489379|2014-01-06|Brooklyn Nets|91|Atlanta|86
+400489396|2014-01-08|Brooklyn Nets|102|Golden State|98
+400489410|2014-01-10|Brooklyn Nets|104|Miami|95
+400489416|2014-01-11|Toronto|96|Brooklyn Nets|80
+400489452|2014-01-16|Atlanta|110|Brooklyn Nets|127
+400489483|2014-01-20|NY Knicks|80|Brooklyn Nets|103
+400489489|2014-01-21|Brooklyn Nets|101|Orlando|90
+400489510|2014-01-24|Brooklyn Nets|107|Dallas|106
+400489536|2014-01-27|Brooklyn Nets|103|Toronto|104
+400489565|2014-01-31|Brooklyn Nets|95|Oklahoma City|120
+400489570|2014-02-01|Indiana|97|Brooklyn Nets|96
+400489585|2014-02-03|Brooklyn Nets|108|Philadelphia|102
+400489610|2014-02-06|Brooklyn Nets|103|San Antonio|89
+400489617|2014-02-07|Detroit|111|Brooklyn Nets|95
+400489632|2014-02-09|Brooklyn Nets|93|New Orleans|81
+400489654|2014-02-12|Brooklyn Nets|105|Charlotte|89
+400489663|2014-02-13|Chicago|92|Brooklyn Nets|76
+400489681|2014-02-19|Utah|99|Brooklyn Nets|105
+400489705|2014-02-22|Golden State|93|Brooklyn Nets|86
+400489712|2014-02-23|Los Angeles|102|Brooklyn Nets|108
+400489734|2014-02-26|Portland|124|Brooklyn Nets|80
+400489739|2014-02-27|Denver|89|Brooklyn Nets|112
+400489751|2014-03-01|Milwaukee|98|Brooklyn Nets|107
+400489764|2014-03-03|Brooklyn Nets|96|Chicago|80
+400489781|2014-03-05|Brooklyn Nets|103|Memphis|94
+400489811|2014-03-09|Brooklyn Nets|104|Sacramento|89
+400489817|2014-03-10|Brooklyn Nets|101|Toronto|97
+400489830|2014-03-12|Miami|95|Brooklyn Nets|96
+400489855|2014-03-15|Washington|101|Brooklyn Nets|94
+400489871|2014-03-17|Brooklyn Nets|108|Phoenix|95
+400489883|2014-03-19|Brooklyn Nets|104|Charlotte|99
+400489917|2014-03-23|Dallas|104|Brooklyn Nets|107
+400489925|2014-03-24|New Orleans|109|Brooklyn Nets|104
+400489934|2014-03-26|Charlotte|116|Brooklyn Nets|111
+400489951|2014-03-28|Brooklyn Nets|108|Cleveland|97
+400489968|2014-03-30|Brooklyn Nets|114|Minnesota|99
+400489984|2014-04-01|Brooklyn Nets|105|Houston|96
+400489988|2014-04-02|NY Knicks|110|Brooklyn Nets|81
+400490007|2014-04-04|Brooklyn Nets|116|Detroit|104
+400490020|2014-04-05|Philadelphia|101|Brooklyn Nets|105
+400490031|2014-04-08|Miami|87|Brooklyn Nets|88
+400490036|2014-04-09|Orlando|115|Brooklyn Nets|111
+400490052|2014-04-11|Brooklyn Nets|88|Atlanta|93
+400490072|2014-04-13|Brooklyn Nets|97|Orlando|88
+400490087|2014-04-15|Brooklyn Nets|98|NY Knicks|109
+400490097|2014-04-16|Cleveland|114|Brooklyn Nets|85
+400488881|2014-10-30|New York Knicks|90|Milwaukee|83
+400488891|2014-10-31|Chicago|82|New York Knicks|81
+400488918|2014-11-03|New York Knicks|100|Minnesota|109
+400488927|2014-11-05|New York Knicks|97|Charlotte|102
+400488946|2014-11-08|Charlotte|91|New York Knicks|101
+400488967|2014-11-10|New York Knicks|89|San Antonio|120
+400488989|2014-11-13|Atlanta|91|New York Knicks|95
+400488996|2014-11-14|New York Knicks|106|Houston|109
+400489012|2014-11-16|New York Knicks|90|Atlanta|110
+400489030|2014-11-19|Detroit|92|New York Knicks|86
+400489036|2014-11-20|New York Knicks|96|Indiana|103
+400489062|2014-11-23|Washington|98|New York Knicks|89
+400489083|2014-11-25|Portland|102|New York Knicks|91
+400489100|2014-11-27|LA|93|New York Knicks|80
+400489111|2014-11-29|Denver|97|New York Knicks|95
+400489127|2014-12-01|New York Knicks|99|New Orleans|103
+400489157|2014-12-06|New York Knicks|121|Orlando|83
+400489183|2014-12-10|Cleveland|109|New York Knicks|94
+400489197|2014-12-11|New York Knicks|83|Chicago|78
+400489218|2014-12-14|New York Knicks|111|Atlanta|106
+400489234|2014-12-16|New York Knicks|101|Washington|102
+400489248|2014-12-18|Milwaukee|101|New York Knicks|107
+400489265|2014-12-21|New York Knicks|87|Memphis|95
+400489282|2014-12-23|Orlando|98|New York Knicks|103
+400489292|2014-12-25|New York Knicks|94|Oklahoma City|123
+400489303|2014-12-27|New York Knicks|83|Toronto|95
+400489311|2014-12-28|Toronto|115|New York Knicks|100
+400489350|2014-01-02|San Antonio|101|New York Knicks|105
+400489358|2014-01-03|Houston|102|New York Knicks|100
+400489376|2014-01-05|Dallas|80|New York Knicks|92
+400489385|2014-01-07|New York Knicks|89|Detroit|85
+400489402|2014-01-09|New York Knicks|102|Miami|92
+400489419|2014-01-11|Philadelphia|92|New York Knicks|102
+400489430|2014-01-13|New York Knicks|98|Phoenix|96
+400489435|2014-01-14|Charlotte|108|New York Knicks|98
+400489451|2014-01-16|Indiana|117|New York Knicks|89
+400489454|2014-01-17|New York Knicks|95|LA|109
+400489499|2014-01-22|New York Knicks|106|Philadelphia|110
+400489513|2014-01-24|New York Knicks|125|Charlotte|96
+400489528|2014-01-26|New York Knicks|110|Los Angeles|103
+400489560|2014-01-30|New York Knicks|117|Cleveland|86
+400489578|2014-02-01|New York Knicks|91|Miami|106
+400489587|2014-02-03|Milwaukee|101|New York Knicks|98
+400489601|2014-02-05|New York Knicks|90|Portland|94
+400489618|2014-02-07|New York Knicks|117|Denver|90
+400489629|2014-02-09|Oklahoma City|112|New York Knicks|100
+400489656|2014-02-12|New York Knicks|101|Sacramento|106
+400489669|2014-02-18|Memphis|98|New York Knicks|93
+400489679|2014-02-19|New Orleans|91|New York Knicks|98
+400489689|2014-02-21|Orlando|129|New York Knicks|121
+400489700|2014-02-22|Atlanta|107|New York Knicks|98
+400489716|2014-02-24|New York Knicks|108|Dallas|110
+400489738|2014-02-27|Miami|108|New York Knicks|82
+400489742|2014-02-28|New York Knicks|103|Golden State|126
+400489756|2014-03-02|Chicago|109|New York Knicks|90
+400489765|2014-03-03|Detroit|96|New York Knicks|85
+400489784|2014-03-05|Minnesota|106|New York Knicks|118
+400489794|2014-03-07|New York Knicks|108|Utah|81
+400489801|2014-03-08|Cleveland|97|New York Knicks|107
+400489819|2014-03-10|New York Knicks|123|Philadelphia|110
+400489854|2014-03-15|New York Knicks|115|Milwaukee|94
+400489886|2014-03-19|New York Knicks|92|Indiana|86
+400489896|2014-03-21|Philadelphia|92|New York Knicks|93
+400489918|2014-03-23|New York Knicks|100|Cleveland|106
+400489933|2014-03-25|Los Angeles|127|New York Knicks|96
+400489942|2014-03-26|Sacramento|99|New York Knicks|107
+400489958|2014-03-28|Phoenix|112|New York Knicks|88
+400489971|2014-03-30|Golden State|84|New York Knicks|89
+400489983|2014-03-31|Utah|83|New York Knicks|92
+400490009|2014-04-04|New York Knicks|89|Washington|90
+400490022|2014-04-06|Miami|102|New York Knicks|91
+400490050|2014-04-11|Toronto|100|New York Knicks|108
+400490070|2014-04-13|New York Knicks|100|Chicago|89
+400490099|2014-04-16|New York Knicks|95|Toronto|92
+400488878|2014-10-30|Philadelphia 76ers|114|Miami|110
+400488895|2014-11-01|Washington|102|Philadelphia 76ers|109
+400488907|2014-11-02|Philadelphia 76ers|107|Chicago|104
+400488921|2014-11-04|Philadelphia 76ers|90|Golden State|110
+400488936|2014-11-06|Philadelphia 76ers|102|Washington|116
+400488949|2014-11-08|Philadelphia 76ers|94|Cleveland|79
+400488961|2014-11-09|Cleveland|127|Philadelphia 76ers|125
+400488973|2014-11-11|Philadelphia 76ers|85|San Antonio|109
+400488985|2014-11-13|Philadelphia 76ers|123|Houston|117
+400489000|2014-11-15|Atlanta|113|Philadelphia 76ers|103
+400489016|2014-11-16|New Orleans|135|Philadelphia 76ers|98
+400489026|2014-11-18|Dallas|97|Philadelphia 76ers|94
+400489038|2014-11-20|Philadelphia 76ers|98|Toronto|108
+400489050|2014-11-22|Philadelphia 76ers|115|Milwaukee|107
+400489061|2014-11-23|Indiana|106|Philadelphia 76ers|98
+400489089|2014-11-27|Orlando|105|Philadelphia 76ers|94
+400489110|2014-11-29|Philadelphia 76ers|105|New Orleans|121
+400489123|2014-12-01|Detroit|115|Philadelphia 76ers|100
+400489134|2014-12-03|Philadelphia 76ers|126|Orlando|125
+400489153|2014-12-06|Charlotte|105|Philadelphia 76ers|88
+400489163|2014-12-07|Philadelphia 76ers|92|Denver|103
+400489178|2014-12-09|Philadelphia 76ers|83|LA|94
+400489195|2014-12-11|Minnesota|106|Philadelphia 76ers|99
+400489204|2014-12-13|Toronto|108|Philadelphia 76ers|100
+400489220|2014-12-14|Philadelphia 76ers|105|Portland|139
+400489271|2014-12-21|Milwaukee|116|Philadelphia 76ers|106
+400489318|2014-12-28|Phoenix|115|Philadelphia 76ers|101
+400489325|2014-12-29|Los Angeles|104|Philadelphia 76ers|111
+400489344|2014-01-01|Denver|102|Philadelphia 76ers|114
+400489354|2014-01-02|Sacramento|104|Philadelphia 76ers|113
+400489369|2014-01-04|Portland|99|Philadelphia 76ers|101
+400489378|2014-01-06|Philadelphia 76ers|95|Minnesota|126
+400489382|2014-01-07|Cleveland|111|Philadelphia 76ers|93
+400489405|2014-01-10|Philadelphia 76ers|104|Detroit|114
+400489440|2014-01-15|Philadelphia 76ers|95|Charlotte|92
+400489456|2014-01-17|Philadelphia 76ers|86|Miami|101
+400489469|2014-01-18|Chicago|103|Philadelphia 76ers|78
+400489482|2014-01-20|Washington|107|Philadelphia 76ers|99
+400489507|2014-01-24|Philadelphia 76ers|95|Toronto|104
+400489521|2014-01-25|Philadelphia 76ers|91|Oklahoma City|103
+400489535|2014-01-27|Philadelphia 76ers|113|Phoenix|124
+400489563|2014-01-31|Philadelphia 76ers|99|Atlanta|125
+400489573|2014-02-01|Detroit|113|Philadelphia 76ers|96
+400489614|2014-02-07|Philadelphia 76ers|98|Los Angeles|112
+400489636|2014-02-09|LA|123|Philadelphia 76ers|78
+400489642|2014-02-10|Golden State|123|Philadelphia 76ers|80
+400489660|2014-02-12|Utah|105|Philadelphia 76ers|100
+400489666|2014-02-18|Philadelphia 76ers|85|Cleveland|114
+400489690|2014-02-21|Philadelphia 76ers|112|Dallas|124
+400489714|2014-02-24|Philadelphia 76ers|110|Milwaukee|130
+400489726|2014-02-26|Philadelphia 76ers|90|Orlando|101
+400489748|2014-03-01|Philadelphia 76ers|103|Washington|122
+400489759|2014-03-02|Orlando|92|Philadelphia 76ers|81
+400489774|2014-03-04|Oklahoma City|125|Philadelphia 76ers|92
+400489802|2014-03-08|Philadelphia 76ers|92|Utah|104
+400489832|2014-03-12|Philadelphia 76ers|98|Sacramento|115
+400489846|2014-03-14|Philadelphia 76ers|94|Indiana|101
+400489858|2014-03-15|Philadelphia 76ers|77|Memphis|103
+400489870|2014-03-17|Indiana|99|Philadelphia 76ers|90
+400489881|2014-03-19|Philadelphia 76ers|94|Chicago|102
+400489907|2014-03-22|Chicago|91|Philadelphia 76ers|81
+400489927|2014-03-24|San Antonio|113|Philadelphia 76ers|91
+400489945|2014-03-27|Houston|120|Philadelphia 76ers|98
+400489960|2014-03-29|Philadelphia 76ers|123|Detroit|98
+400489976|2014-03-31|Atlanta|103|Philadelphia 76ers|95
+400489990|2014-04-02|Philadelphia 76ers|93|Charlotte|123
+400490037|2014-04-09|Toronto|125|Philadelphia 76ers|114
+400490055|2014-04-11|Memphis|117|Philadelphia 76ers|95
+400490063|2014-04-12|Charlotte|111|Philadelphia 76ers|105
+400490098|2014-04-16|Miami|87|Philadelphia 76ers|100
+400488896|2014-11-01|Atlanta|102|Toronto Raptors|95
+400488910|2014-11-02|Milwaukee|90|Toronto Raptors|97
+400488924|2014-11-05|Toronto Raptors|95|Miami|104
+400488933|2014-11-06|Charlotte|92|Toronto Raptors|90
+400488947|2014-11-08|Indiana|91|Toronto Raptors|84
+400488958|2014-11-09|Toronto Raptors|115|Utah|91
+400488976|2014-11-11|Houston|110|Toronto Raptors|104
+400488987|2014-11-13|Memphis|87|Toronto Raptors|103
+400488999|2014-11-15|Toronto Raptors|80|Chicago|96
+400489020|2014-11-17|Toronto Raptors|110|Portland|118
+400489051|2014-11-22|Toronto Raptors|96|Washington|88
+400489103|2014-11-29|Toronto Raptors|83|Miami|90
+400489121|2014-12-01|Toronto Raptors|98|Denver|112
+400489141|2014-12-03|Golden State|112|Toronto Raptors|103
+400489160|2014-12-06|Phoenix|106|Toronto Raptors|97
+400489176|2014-12-08|Los Angeles|94|Toronto Raptors|106
+400489185|2014-12-10|Toronto Raptors|103|San Antonio|116
+400489219|2014-12-14|Chicago|77|Toronto Raptors|99
+400489244|2014-12-18|Toronto Raptors|102|Charlotte|104
+400489262|2014-12-20|Dallas|108|Toronto Raptors|109
+400489278|2014-12-22|Oklahoma City|98|Toronto Raptors|104
+400489287|2014-12-23|San Antonio|112|Toronto Raptors|99
+400489336|2014-12-31|Chicago|79|Toronto Raptors|85
+400489342|2014-01-01|Toronto Raptors|95|Indiana|82
+400489355|2014-01-03|Washington|88|Toronto Raptors|101
+400489373|2014-01-05|Miami|102|Toronto Raptors|97
+400489383|2014-01-07|Indiana|86|Toronto Raptors|79
+400489394|2014-01-08|Toronto Raptors|112|Detroit|91
+400489428|2014-01-13|Toronto Raptors|116|Milwaukee|94
+400489457|2014-01-17|Toronto Raptors|94|Minnesota|89
+400489474|2014-01-19|Toronto Raptors|106|Los Angeles|112
+400489481|2014-01-20|Charlotte|100|Toronto Raptors|95
+400489497|2014-01-22|Toronto Raptors|93|Dallas|85
+400489520|2014-01-25|Toronto Raptors|118|LA|126
+400489549|2014-01-29|Toronto Raptors|98|Orlando|83
+400489567|2014-01-31|Denver|90|Toronto Raptors|100
+400489580|2014-02-01|Portland|106|Toronto Raptors|103
+400489592|2014-02-03|Utah|79|Toronto Raptors|94
+400489608|2014-02-05|Sacramento|109|Toronto Raptors|101
+400489621|2014-02-07|LA|118|Toronto Raptors|105
+400489638|2014-02-10|Toronto Raptors|108|New Orleans|101
+400489652|2014-02-12|Toronto Raptors|104|Atlanta|83
+400489667|2014-02-18|Washington|93|Toronto Raptors|103
+400489676|2014-02-19|Toronto Raptors|92|Chicago|94
+400489691|2014-02-21|Toronto Raptors|98|Cleveland|91
+400489709|2014-02-23|Toronto Raptors|105|Orlando|90
+400489719|2014-02-25|Cleveland|93|Toronto Raptors|99
+400489737|2014-02-27|Toronto Raptors|129|Washington|134
+400489757|2014-03-02|Toronto Raptors|104|Golden State|98
+400489792|2014-03-07|Toronto Raptors|99|Sacramento|87
+400489813|2014-03-09|Minnesota|104|Toronto Raptors|111
+400489833|2014-03-12|Toronto Raptors|101|Detroit|87
+400489847|2014-03-14|Toronto Raptors|99|Memphis|86
+400489861|2014-03-16|Toronto Raptors|113|Phoenix|121
+400489877|2014-03-18|Atlanta|118|Toronto Raptors|113
+400489885|2014-03-19|New Orleans|100|Toronto Raptors|107
+400489897|2014-03-21|Toronto Raptors|118|Oklahoma City|119
+400489913|2014-03-23|Toronto Raptors|96|Atlanta|86
+400489930|2014-03-25|Cleveland|102|Toronto Raptors|100
+400489969|2014-03-30|Orlando|93|Toronto Raptors|98
+400489978|2014-03-31|Miami|93|Toronto Raptors|83
+400489991|2014-04-02|Toronto Raptors|107|Houston|103
+400490004|2014-04-04|Toronto Raptors|102|Indiana|94
+400490021|2014-04-05|Milwaukee|98|Toronto Raptors|102
+400490071|2014-04-13|Detroit|107|Toronto Raptors|116
+400490078|2014-04-14|Toronto Raptors|110|Milwaukee|100
+400488890|2014-10-30|Golden State Warriors|125|Los Angeles|94
+400488892|2014-10-31|LA|126|Golden State Warriors|115
+400488913|2014-11-02|Golden State Warriors|98|Sacramento|87
+400488940|2014-11-06|Minnesota|93|Golden State Warriors|106
+400488955|2014-11-08|San Antonio|76|Golden State Warriors|74
+400488964|2014-11-09|Memphis|108|Golden State Warriors|90
+400488982|2014-11-12|Golden State Warriors|113|Detroit|95
+400488997|2014-11-14|Golden State Warriors|116|Oklahoma City|115
+400489018|2014-11-16|Golden State Warriors|102|Utah|88
+400489027|2014-11-18|Utah|87|Golden State Warriors|98
+400489046|2014-11-20|Golden State Warriors|81|Memphis|88
+400489059|2014-11-22|Los Angeles|102|Golden State Warriors|95
+400489069|2014-11-23|Golden State Warriors|101|Portland|113
+400489087|2014-11-26|New Orleans|101|Golden State Warriors|102
+400489098|2014-11-27|Dallas|103|Golden State Warriors|99
+400489108|2014-11-29|Oklahoma City|113|Golden State Warriors|112
+400489124|2014-12-01|Sacramento|113|Golden State Warriors|115
+400489158|2014-12-06|Houston|105|Golden State Warriors|83
+400489166|2014-12-07|Memphis|82|Golden State Warriors|108
+400489177|2014-12-09|Charlotte|115|Golden State Warriors|111
+400489199|2014-12-11|Golden State Warriors|95|Dallas|93
+400489214|2014-12-13|Golden State Warriors|112|Houston|116
+400489228|2014-12-15|Phoenix|106|Golden State Warriors|102
+400489241|2014-12-17|Golden State Warriors|104|New Orleans|93
+400489255|2014-12-19|Golden State Warriors|102|San Antonio|104
+400489275|2014-12-21|Golden State Warriors|102|Los Angeles|83
+400489288|2014-12-23|Denver|81|Golden State Warriors|89
+400489295|2014-12-25|Golden State Warriors|105|LA|103
+400489308|2014-12-27|Golden State Warriors|115|Phoenix|86
+400489321|2014-12-29|Cleveland|104|Golden State Warriors|108
+400489335|2014-12-31|Orlando|81|Golden State Warriors|94
+400489347|2014-01-02|Miami|114|Golden State Warriors|123
+400489356|2014-01-03|Atlanta|100|Golden State Warriors|101
+400489374|2014-01-05|Washington|96|Golden State Warriors|112
+400489388|2014-01-07|Milwaukee|80|Golden State Warriors|101
+400489449|2014-01-15|Golden State Warriors|116|Denver|123
+400489465|2014-01-17|Oklahoma City|127|Golden State Warriors|121
+400489472|2014-01-18|New Orleans|87|Golden State Warriors|97
+400489488|2014-01-20|Golden State Warriors|94|Indiana|102
+400489518|2014-01-24|Golden State Warriors|120|Minnesota|121
+400489533|2014-01-26|Golden State Warriors|103|Portland|88
+400489546|2014-01-28|Golden State Warriors|85|Washington|88
+400489561|2014-01-30|Golden State Warriors|111|LA|92
+400489569|2014-01-31|Utah|90|Golden State Warriors|95
+400489597|2014-02-04|Golden State Warriors|75|Charlotte|91
+400489611|2014-02-06|Golden State Warriors|102|Chicago|87
+400489627|2014-02-08|Phoenix|122|Golden State Warriors|109
+400489661|2014-02-12|Golden State Warriors|110|Miami|111
+400489683|2014-02-19|Sacramento|92|Golden State Warriors|101
+400489687|2014-02-20|Golden State Warriors|102|Houston|99
+400489715|2014-02-24|Detroit|96|Golden State Warriors|104
+400489728|2014-02-26|Chicago|103|Golden State Warriors|83
+400489772|2014-03-04|Indiana|96|Golden State Warriors|98
+400489800|2014-03-07|Golden State Warriors|111|Atlanta|97
+400489815|2014-03-09|Golden State Warriors|113|Phoenix|107
+400489829|2014-03-11|Golden State Warriors|108|Dallas|85
+400489840|2014-03-12|LA|111|Golden State Warriors|98
+400489853|2014-03-14|Golden State Warriors|94|Cleveland|103
+400489867|2014-03-16|Portland|112|Golden State Warriors|113
+400489880|2014-03-18|Golden State Warriors|103|Orlando|89
+400489894|2014-03-20|Golden State Warriors|115|Milwaukee|110
+400489911|2014-03-22|Golden State Warriors|90|San Antonio|99
+400489959|2014-03-28|Golden State Warriors|100|Memphis|93
+400489985|2014-04-01|Dallas|120|Golden State Warriors|122
+400489996|2014-04-02|San Antonio|111|Golden State Warriors|90
+400490014|2014-04-04|Golden State Warriors|102|Sacramento|69
+400490028|2014-04-06|Golden State Warriors|130|Utah|102
+400490048|2014-04-10|Golden State Warriors|99|Denver|100
+400490061|2014-04-11|Los Angeles|95|Golden State Warriors|112
+400490074|2014-04-13|Portland|119|Golden State Warriors|117
+400490086|2014-04-14|Golden State Warriors|130|Minnesota|120
+400490103|2014-04-16|Denver|112|Golden State Warriors|116
+400488876|2014-10-29|Los Angeles|116|LA Clippers|103
+400488904|2014-11-01|Sacramento|101|LA Clippers|110
+400488923|2014-11-04|LA Clippers|137|Houston|118
+400488935|2014-11-06|Orlando|98|LA Clippers|90
+400488943|2014-11-07|Miami|102|LA Clippers|97
+400488963|2014-11-09|Houston|94|LA Clippers|107
+400488979|2014-11-11|LA Clippers|109|Minnesota|107
+400488995|2014-11-13|LA Clippers|111|Oklahoma City|103
+400489028|2014-11-18|LA Clippers|102|Memphis|106
+400489041|2014-11-20|Minnesota|98|LA Clippers|102
+400489047|2014-11-21|Oklahoma City|105|LA Clippers|91
+400489060|2014-11-23|LA Clippers|103|Sacramento|102
+400489071|2014-11-24|LA Clippers|121|Chicago|82
+400489113|2014-11-29|Sacramento|98|LA Clippers|104
+400489122|2014-12-01|LA Clippers|100|Indiana|105
+400489143|2014-12-04|Atlanta|107|LA Clippers|97
+400489151|2014-12-05|Memphis|81|LA Clippers|101
+400489164|2014-12-07|Cleveland|88|LA Clippers|82
+400489216|2014-12-14|Washington|97|LA Clippers|113
+400489236|2014-12-16|LA Clippers|115|San Antonio|92
+400489253|2014-12-18|LA Clippers|108|New Orleans|95
+400489276|2014-12-21|LA Clippers|112|Denver|91
+400489279|2014-12-22|LA Clippers|120|Minnesota|116
+400489299|2014-12-26|Portland|116|LA Clippers|112
+400489320|2014-12-28|LA Clippers|98|Utah|90
+400489332|2014-12-30|LA Clippers|88|Phoenix|107
+400489345|2014-01-01|LA Clippers|112|Charlotte|85
+400489359|2014-01-03|Dallas|112|LA Clippers|119
+400489367|2014-01-04|San Antonio|116|LA Clippers|92
+400489380|2014-01-06|LA Clippers|101|Orlando|81
+400489415|2014-01-10|LA Clippers|123|Los Angeles|87
+400489450|2014-01-15|LA Clippers|129|Dallas|127
+400489467|2014-01-18|Indiana|106|LA Clippers|92
+400489480|2014-01-20|Detroit|103|LA Clippers|112
+400489494|2014-01-22|Charlotte|95|LA Clippers|91
+400489514|2014-01-24|Chicago|95|LA Clippers|112
+400489538|2014-01-27|Milwaukee|86|LA Clippers|114
+400489558|2014-01-29|LA Clippers|110|Washington|103
+400489581|2014-02-01|LA Clippers|102|Utah|87
+400489591|2014-02-03|Denver|116|LA Clippers|115
+400489609|2014-02-05|LA Clippers|112|Miami|116
+400489662|2014-02-12|LA Clippers|122|Portland|117
+400489673|2014-02-18|LA Clippers|103|San Antonio|113
+400489694|2014-02-21|Memphis|102|LA Clippers|96
+400489706|2014-02-23|Oklahoma City|117|LA Clippers|125
+400489717|2014-02-24|New Orleans|110|LA Clippers|123
+400489735|2014-02-26|LA Clippers|101|Houston|93
+400489755|2014-03-01|LA Clippers|108|New Orleans|76
+400489775|2014-03-04|Phoenix|96|LA Clippers|104
+400489789|2014-03-06|Los Angeles|94|LA Clippers|142
+400489806|2014-03-08|LA Clippers|109|Atlanta|108
+400489822|2014-03-10|LA Clippers|112|Phoenix|105
+400489852|2014-03-14|Utah|87|LA Clippers|96
+400489868|2014-03-16|LA Clippers|102|Cleveland|80
+400489875|2014-03-17|Denver|110|LA Clippers|100
+400489912|2014-03-22|LA Clippers|112|Detroit|103
+400489929|2014-03-24|LA Clippers|106|Milwaukee|98
+400489939|2014-03-26|New Orleans|98|LA Clippers|96
+400489947|2014-03-27|Dallas|103|LA Clippers|109
+400489961|2014-03-29|Houston|107|LA Clippers|118
+400489980|2014-03-31|Minnesota|104|LA Clippers|114
+400489998|2014-04-02|Phoenix|108|LA Clippers|112
+400490001|2014-04-03|LA Clippers|107|Dallas|113
+400490023|2014-04-06|LA Clippers|120|Los Angeles|97
+400490046|2014-04-09|LA Clippers|101|Oklahoma City|107
+400490062|2014-04-12|LA Clippers|117|Sacramento|101
+400490088|2014-04-15|LA Clippers|117|Denver|105
+400490101|2014-04-16|Portland|110|LA Clippers|104
+400488905|2014-11-01|Los Angeles Lakers|85|San Antonio|91
+400488919|2014-11-03|Los Angeles Lakers|105|Atlanta|103
+400488929|2014-11-05|Dallas|123|Los Angeles Lakers|104
+400488945|2014-11-07|Houston|98|Los Angeles Lakers|99
+400488954|2014-11-08|New Orleans|96|Los Angeles Lakers|85
+400488970|2014-11-10|Los Angeles Lakers|90|Minnesota|113
+400488983|2014-11-12|Los Angeles Lakers|116|New Orleans|95
+400488991|2014-11-13|Denver|111|Los Angeles Lakers|99
+400489007|2014-11-15|Los Angeles Lakers|86|Memphis|89
+400489022|2014-11-17|Los Angeles Lakers|114|Detroit|99
+400489074|2014-11-24|Los Angeles Lakers|100|Sacramento|86
+400489085|2014-11-26|Washington|116|Los Angeles Lakers|111
+400489106|2014-11-29|Detroit|102|Los Angeles Lakers|106
+400489128|2014-12-01|Los Angeles Lakers|108|Portland|114
+400489162|2014-12-06|Sacramento|100|Los Angeles Lakers|106
+400489190|2014-12-10|Los Angeles Lakers|108|Phoenix|114
+400489209|2014-12-13|Oklahoma City|122|Los Angeles Lakers|97
+400489215|2014-12-14|Charlotte|85|Los Angeles Lakers|88
+400489230|2014-12-16|Atlanta|114|Los Angeles Lakers|100
+400489239|2014-12-17|Memphis|92|Los Angeles Lakers|96
+400489264|2014-12-20|Los Angeles Lakers|104|Minnesota|91
+400489289|2014-12-23|Phoenix|117|Los Angeles Lakers|90
+400489293|2014-12-25|Los Angeles Lakers|95|Miami|101
+400489306|2014-12-27|Utah|105|Los Angeles Lakers|103
+400489340|2014-12-31|Los Angeles Lakers|79|Milwaukee|94
+400489361|2014-01-03|Los Angeles Lakers|110|Utah|99
+400489377|2014-01-05|Los Angeles Lakers|115|Denver|137
+400489389|2014-01-07|Dallas|110|Los Angeles Lakers|97
+400489399|2014-01-08|Houston|113|Los Angeles Lakers|99
+400489438|2014-01-14|Los Angeles Lakers|118|Cleveland|120
+400489447|2014-01-15|Phoenix|121|Los Angeles Lakers|114
+400489486|2014-01-20|Chicago|102|Los Angeles Lakers|100
+400489504|2014-01-23|Miami|109|Los Angeles Lakers|102
+400489506|2014-01-24|Orlando|114|Los Angeles Lakers|105
+400489547|2014-01-28|Los Angeles Lakers|92|Indiana|104
+400489568|2014-01-31|Los Angeles Lakers|100|Charlotte|110
+400489595|2014-02-04|Minnesota|109|Los Angeles Lakers|99
+400489598|2014-02-05|Cleveland|108|Los Angeles Lakers|119
+400489630|2014-02-09|Los Angeles Lakers|86|Chicago|92
+400489649|2014-02-11|Los Angeles Lakers|79|Utah|96
+400489664|2014-02-13|Los Angeles Lakers|103|Oklahoma City|107
+400489684|2014-02-19|Los Angeles Lakers|108|Houston|134
+400489720|2014-02-25|Indiana|118|Los Angeles Lakers|98
+400489730|2014-02-26|Memphis|108|Los Angeles Lakers|103
+400489745|2014-02-28|Los Angeles Lakers|126|Sacramento|122
+400489769|2014-03-03|Portland|106|Los Angeles Lakers|107
+400489776|2014-03-04|Los Angeles Lakers|125|New Orleans|132
+400489798|2014-03-07|Denver|134|Los Angeles Lakers|126
+400489808|2014-03-09|Los Angeles Lakers|114|Oklahoma City|110
+400489843|2014-03-13|Oklahoma City|131|Los Angeles Lakers|102
+400489851|2014-03-14|San Antonio|119|Los Angeles Lakers|85
+400489890|2014-03-19|Los Angeles Lakers|109|San Antonio|125
+400489904|2014-03-21|Los Angeles Lakers|107|Washington|117
+400489919|2014-03-23|Los Angeles Lakers|103|Orlando|94
+400489946|2014-03-27|Milwaukee|108|Los Angeles Lakers|105
+400489954|2014-03-28|Minnesota|143|Los Angeles Lakers|107
+400489973|2014-03-30|Los Angeles Lakers|115|Phoenix|99
+400489986|2014-04-01|Los Angeles Lakers|112|Portland|124
+400489999|2014-04-02|Sacramento|107|Los Angeles Lakers|102
+400490015|2014-04-04|Los Angeles Lakers|95|Dallas|107
+400490034|2014-04-08|Los Angeles Lakers|130|Houston|145
+400490076|2014-04-13|Los Angeles Lakers|90|Memphis|102
+400490084|2014-04-14|Utah|104|Los Angeles Lakers|119
+400490094|2014-04-16|San Antonio|100|Los Angeles Lakers|113
+400488888|2014-10-30|Phoenix Suns|104|Portland|91
+400488903|2014-11-01|Phoenix Suns|87|Utah|84
+400488917|2014-11-03|Oklahoma City|103|Phoenix Suns|96
+400488928|2014-11-05|New Orleans|98|Phoenix Suns|104
+400488941|2014-11-06|San Antonio|99|Phoenix Suns|96
+400488956|2014-11-08|Phoenix Suns|114|Denver|103
+400488969|2014-11-10|Phoenix Suns|101|New Orleans|94
+400488993|2014-11-13|Portland|90|Phoenix Suns|89
+400489033|2014-11-19|Sacramento|107|Phoenix Suns|104
+400489044|2014-11-20|Phoenix Suns|106|Sacramento|113
+400489049|2014-11-22|Charlotte|91|Phoenix Suns|98
+400489072|2014-11-24|Orlando|96|Phoenix Suns|104
+400489078|2014-11-25|Miami|107|Phoenix Suns|92
+400489099|2014-11-27|Phoenix Suns|120|Portland|106
+400489112|2014-11-29|Utah|101|Phoenix Suns|112
+400489119|2014-11-30|Phoenix Suns|104|Utah|112
+400489138|2014-12-03|Memphis|110|Phoenix Suns|91
+400489144|2014-12-04|Houston|88|Phoenix Suns|97
+400489213|2014-12-13|Phoenix Suns|116|Sacramento|107
+400489251|2014-12-18|Phoenix Suns|101|San Antonio|108
+400489263|2014-12-20|Denver|99|Phoenix Suns|103
+400489273|2014-12-21|Phoenix Suns|123|Dallas|108
+400489351|2014-01-02|Phoenix Suns|91|Memphis|99
+400489368|2014-01-04|Phoenix Suns|116|Milwaukee|100
+400489386|2014-01-07|Chicago|92|Phoenix Suns|87
+400489397|2014-01-08|Minnesota|103|Phoenix Suns|104
+400489407|2014-01-10|Memphis|104|Phoenix Suns|99
+400489418|2014-01-11|Detroit|110|Phoenix Suns|108
+400489464|2014-01-17|Phoenix Suns|107|Dallas|110
+400489478|2014-01-19|Phoenix Suns|117|Denver|103
+400489502|2014-01-22|Phoenix Suns|124|Indiana|100
+400489516|2014-01-24|Phoenix Suns|95|Washington|101
+400489530|2014-01-26|Cleveland|90|Phoenix Suns|99
+400489552|2014-01-29|Milwaukee|117|Phoenix Suns|126
+400489559|2014-01-30|Indiana|94|Phoenix Suns|102
+400489579|2014-02-01|Phoenix Suns|105|Charlotte|95
+400489596|2014-02-04|Phoenix Suns|92|Chicago|101
+400489602|2014-02-05|Houston|122|Phoenix Suns|108
+400489647|2014-02-11|Phoenix Suns|97|Miami|103
+400489672|2014-02-18|Denver|107|Phoenix Suns|112
+400489695|2014-02-21|Phoenix Suns|106|San Antonio|85
+400489711|2014-02-23|Phoenix Suns|112|Houston|115
+400489724|2014-02-25|Phoenix Suns|101|Minnesota|110
+400489733|2014-02-26|Utah|109|Phoenix Suns|86
+400489746|2014-02-28|Phoenix Suns|116|New Orleans|104
+400489762|2014-03-02|Phoenix Suns|129|Atlanta|120
+400489788|2014-03-06|Phoenix Suns|128|Oklahoma City|122
+400489839|2014-03-12|Phoenix Suns|101|Cleveland|110
+400489889|2014-03-19|Phoenix Suns|109|Orlando|93
+400489902|2014-03-21|Phoenix Suns|98|Detroit|92
+400489914|2014-03-23|Minnesota|120|Phoenix Suns|127
+400489921|2014-03-24|Atlanta|95|Phoenix Suns|102
+400489935|2014-03-26|Washington|93|Phoenix Suns|99
+400490013|2014-04-04|Portland|93|Phoenix Suns|109
+400490029|2014-04-06|Phoenix Suns|122|Oklahoma City|115
+400490043|2014-04-09|New Orleans|88|Phoenix Suns|94
+400490059|2014-04-11|San Antonio|112|Phoenix Suns|104
+400490068|2014-04-12|Dallas|101|Phoenix Suns|98
+400490085|2014-04-14|Phoenix Suns|91|Memphis|97
+400490102|2014-04-16|Sacramento|99|Phoenix Suns|104
+400488889|2014-10-30|Sacramento Kings|90|Denver|88
+400488932|2014-11-05|Sacramento Kings|100|Atlanta|105
+400488957|2014-11-08|Portland|104|Sacramento Kings|91
+400488966|2014-11-09|Sacramento Kings|85|Portland|96
+400489008|2014-11-15|Sacramento Kings|90|Detroit|97
+400489021|2014-11-17|Sacramento Kings|86|Memphis|97
+400489140|2014-12-03|Sacramento Kings|95|Oklahoma City|97
+400489170|2014-12-07|Utah|102|Sacramento Kings|112
+400489182|2014-12-09|Sacramento Kings|112|Dallas|97
+400489198|2014-12-11|Sacramento Kings|101|Utah|122
+400489223|2014-12-15|Sacramento Kings|106|Houston|91
+400489237|2014-12-17|Charlotte|95|Sacramento Kings|87
+400489245|2014-12-18|Atlanta|124|Sacramento Kings|107
+400489260|2014-12-20|Miami|122|Sacramento Kings|103
+400489268|2014-12-21|Orlando|100|Sacramento Kings|105
+400489290|2014-12-23|Sacramento Kings|100|New Orleans|113
+400489307|2014-12-27|Sacramento Kings|108|Miami|103
+400489324|2014-12-29|San Antonio|112|Sacramento Kings|104
+400489337|2014-12-31|Houston|106|Sacramento Kings|110
+400489370|2014-01-04|Sacramento Kings|103|Charlotte|113
+400489392|2014-01-07|Sacramento Kings|123|Portland|119
+400489413|2014-01-10|Sacramento Kings|103|Orlando|83
+400489425|2014-01-12|Sacramento Kings|124|Cleveland|80
+400489436|2014-01-14|Indiana|116|Sacramento Kings|92
+400489444|2014-01-15|Minnesota|108|Sacramento Kings|111
+400489461|2014-01-17|Memphis|91|Sacramento Kings|90
+400489476|2014-01-19|Oklahoma City|108|Sacramento Kings|93
+400489491|2014-01-21|New Orleans|97|Sacramento Kings|114
+400489500|2014-01-22|Houston|119|Sacramento Kings|98
+400489517|2014-01-24|Sacramento Kings|111|Indiana|116
+400489534|2014-01-26|Sacramento Kings|117|Denver|125
+400489540|2014-01-27|Utah|106|Sacramento Kings|99
+400489557|2014-01-29|Sacramento Kings|89|Memphis|99
+400489566|2014-01-31|Dallas|107|Sacramento Kings|103
+400489577|2014-02-01|San Antonio|95|Sacramento Kings|93
+400489593|2014-02-03|Sacramento Kings|99|Chicago|70
+400489635|2014-02-09|Washington|93|Sacramento Kings|84
+400489644|2014-02-11|Cleveland|109|Sacramento Kings|99
+400489710|2014-02-23|Denver|95|Sacramento Kings|109
+400489725|2014-02-25|Sacramento Kings|103|Houston|129
+400489754|2014-03-01|Sacramento Kings|97|Minnesota|108
+400489770|2014-03-03|Sacramento Kings|96|New Orleans|89
+400489783|2014-03-05|Milwaukee|102|Sacramento Kings|116
+400489824|2014-03-11|Detroit|99|Sacramento Kings|89
+400489859|2014-03-15|Chicago|94|Sacramento Kings|87
+400489864|2014-03-16|Minnesota|104|Sacramento Kings|102
+400489879|2014-03-18|Sacramento Kings|117|Washington|111
+400489903|2014-03-21|Sacramento Kings|79|San Antonio|99
+400489916|2014-03-23|Sacramento Kings|124|Milwaukee|107
+400489956|2014-03-28|Oklahoma City|94|Sacramento Kings|81
+400489963|2014-03-29|Dallas|103|Sacramento Kings|100
+400489981|2014-03-31|New Orleans|97|Sacramento Kings|102
+400490024|2014-04-06|Sacramento Kings|91|Dallas|93
+400490033|2014-04-08|Sacramento Kings|92|Oklahoma City|107
+400490045|2014-04-09|Portland|100|Sacramento Kings|99
+400490075|2014-04-13|Sacramento Kings|106|Minnesota|103
+400488875|2014-10-29|Miami|107|Chicago Bulls|95
+400488934|2014-11-06|Indiana|97|Chicago Bulls|80
+400488952|2014-11-08|Chicago Bulls|97|Utah|73
+400488975|2014-11-11|Chicago Bulls|96|Cleveland|81
+400489013|2014-11-16|Chicago Bulls|110|Indiana|94
+400489024|2014-11-18|Chicago Bulls|86|Charlotte|81
+400489048|2014-11-21|Denver|97|Chicago Bulls|87
+400489058|2014-11-22|Portland|98|Chicago Bulls|95
+400489082|2014-11-25|Utah|89|Chicago Bulls|83
+400489093|2014-11-27|Detroit|79|Chicago Bulls|99
+400489115|2014-11-30|Cleveland|97|Chicago Bulls|93
+400489130|2014-12-02|Chicago Bulls|128|New Orleans|131
+400489152|2014-12-05|Chicago Bulls|107|Miami|87
+400489165|2014-12-07|Chicago Bulls|75|Detroit|92
+400489189|2014-12-10|Chicago Bulls|74|Milwaukee|78
+400489210|2014-12-13|Milwaukee|90|Chicago Bulls|91
+400489235|2014-12-16|Chicago Bulls|82|Orlando|83
+400489252|2014-12-18|Houston|109|Chicago Bulls|94
+400489254|2014-12-19|Oklahoma City|107|Chicago Bulls|95
+400489270|2014-12-21|Chicago Bulls|100|Cleveland|84
+400489314|2014-12-28|Chicago Bulls|83|Dallas|105
+400489327|2014-12-30|Memphis|91|Chicago Bulls|95
+400489365|2014-01-04|Chicago Bulls|91|Atlanta|84
+400489411|2014-01-10|Milwaukee|72|Chicago Bulls|81
+400489420|2014-01-11|Chicago Bulls|103|Charlotte|97
+400489431|2014-01-13|Chicago Bulls|88|Washington|102
+400489439|2014-01-15|Orlando|125|Chicago Bulls|128
+400489458|2014-01-17|Washington|96|Chicago Bulls|93
+400489495|2014-01-22|Cleveland|87|Chicago Bulls|98
+400489519|2014-01-25|Charlotte|87|Chicago Bulls|89
+400489537|2014-01-27|Chicago Bulls|86|Minnesota|95
+400489556|2014-01-29|San Antonio|86|Chicago Bulls|96
+400489576|2014-02-01|New Orleans|88|Chicago Bulls|79
+400489645|2014-02-11|Chicago Bulls|100|Atlanta|85
+400489693|2014-02-21|Chicago Bulls|117|Denver|89
+400489707|2014-02-23|Miami|93|Chicago Bulls|79
+400489722|2014-02-25|Atlanta|103|Chicago Bulls|107
+400489743|2014-02-28|Dallas|91|Chicago Bulls|100
+400489782|2014-03-05|Detroit|94|Chicago Bulls|105
+400489790|2014-03-07|Chicago Bulls|77|Memphis|85
+400489807|2014-03-09|Chicago Bulls|95|Miami|88
+400489825|2014-03-11|Chicago Bulls|96|San Antonio|104
+400489841|2014-03-13|Chicago Bulls|111|Houston|87
+400489872|2014-03-17|Chicago Bulls|85|Oklahoma City|97
+400489895|2014-03-21|Indiana|91|Chicago Bulls|79
+400489923|2014-03-24|Chicago Bulls|89|Indiana|77
+400489953|2014-03-28|Chicago Bulls|74|Portland|91
+400489993|2014-04-02|Atlanta|92|Chicago Bulls|105
+400490010|2014-04-04|Chicago Bulls|102|Milwaukee|90
+400490017|2014-04-05|Washington|78|Chicago Bulls|96
+400490042|2014-04-09|Minnesota|87|Chicago Bulls|102
+400490054|2014-04-11|Chicago Bulls|106|Detroit|98
+400490081|2014-04-14|Chicago Bulls|108|Orlando|95
+400490096|2014-04-16|Charlotte|91|Chicago Bulls|86
+400488893|2014-11-01|Charlotte|90|Cleveland Cavaliers|84
+400488906|2014-11-02|Indiana|89|Cleveland Cavaliers|74
+400488920|2014-11-04|Cleveland Cavaliers|93|Minnesota|92
+400488939|2014-11-06|Milwaukee|109|Cleveland Cavaliers|104
+400488988|2014-11-13|Minnesota|124|Cleveland Cavaliers|95
+400489002|2014-11-15|Cleveland Cavaliers|80|Charlotte|86
+400489011|2014-11-16|Washington|96|Cleveland Cavaliers|103
+400489035|2014-11-20|Cleveland Cavaliers|91|Washington|98
+400489056|2014-11-22|New Orleans|104|Cleveland Cavaliers|100
+400489067|2014-11-23|San Antonio|126|Cleveland Cavaliers|96
+400489092|2014-11-27|Cleveland Cavaliers|84|Miami|95
+400489142|2014-12-04|Cleveland Cavaliers|98|Denver|88
+400489155|2014-12-06|Atlanta|108|Cleveland Cavaliers|89
+400489203|2014-12-13|Orlando|100|Cleveland Cavaliers|109
+400489217|2014-12-14|Miami|114|Cleveland Cavaliers|107
+400489238|2014-12-17|Cleveland Cavaliers|116|Portland|119
+400489258|2014-12-20|Cleveland Cavaliers|114|Milwaukee|111
+400489281|2014-12-23|Cleveland Cavaliers|92|Detroit|115
+400489296|2014-12-26|Cleveland Cavaliers|125|Atlanta|127
+400489334|2014-12-31|Indiana|91|Cleveland Cavaliers|76
+400489346|2014-01-02|Cleveland Cavaliers|87|Orlando|81
+400489372|2014-01-05|Cleveland Cavaliers|78|Indiana|82
+400489412|2014-01-10|Utah|102|Cleveland Cavaliers|113
+400489448|2014-01-15|Portland|108|Cleveland Cavaliers|96
+400489463|2014-01-17|Denver|109|Cleveland Cavaliers|117
+400489479|2014-01-20|Cleveland Cavaliers|97|Dallas|102
+400489511|2014-01-24|Cleveland Cavaliers|93|Milwaukee|78
+400489541|2014-01-28|Cleveland Cavaliers|89|New Orleans|100
+400489574|2014-02-01|Houston|106|Cleveland Cavaliers|92
+400489590|2014-02-03|Dallas|124|Cleveland Cavaliers|107
+400489615|2014-02-07|Washington|113|Cleveland Cavaliers|115
+400489633|2014-02-09|Cleveland Cavaliers|91|Memphis|83
+400489655|2014-02-12|Detroit|89|Cleveland Cavaliers|93
+400489675|2014-02-19|Cleveland Cavaliers|101|Orlando|93
+400489708|2014-02-23|Cleveland Cavaliers|83|Washington|96
+400489731|2014-02-26|Oklahoma City|104|Cleveland Cavaliers|114
+400489740|2014-02-28|Cleveland Cavaliers|99|Utah|79
+400489752|2014-03-01|Memphis|110|Cleveland Cavaliers|96
+400489771|2014-03-04|Cleveland Cavaliers|101|San Antonio|122
+400489791|2014-03-07|Charlotte|101|Cleveland Cavaliers|92
+400489876|2014-03-18|Cleveland Cavaliers|96|Miami|100
+400489891|2014-03-20|Cleveland Cavaliers|95|Oklahoma City|102
+400489906|2014-03-22|Cleveland Cavaliers|111|Houston|118
+400489937|2014-03-26|Detroit|96|Cleveland Cavaliers|97
+400489967|2014-03-30|Cleveland Cavaliers|90|Indiana|76
+400489989|2014-04-02|Orlando|98|Cleveland Cavaliers|119
+400490005|2014-04-04|Atlanta|117|Cleveland Cavaliers|98
+400490018|2014-04-05|Cleveland Cavaliers|94|Charlotte|96
+400490035|2014-04-09|Cleveland Cavaliers|122|Detroit|100
+400490058|2014-04-11|Milwaukee|119|Cleveland Cavaliers|116
+400488880|2014-10-30|Detroit Pistons|113|Washington|102
+400488899|2014-11-01|Memphis|111|Detroit Pistons|108
+400488926|2014-11-05|Detroit Pistons|91|Indiana|99
+400488951|2014-11-08|Detroit Pistons|110|Oklahoma City|119
+400488978|2014-11-11|Portland|109|Detroit Pistons|103
+400489039|2014-11-20|Atlanta|93|Detroit Pistons|85
+400489053|2014-11-22|Detroit Pistons|89|Atlanta|96
+400489077|2014-11-25|Detroit Pistons|113|Milwaukee|94
+400489137|2014-12-03|Miami|97|Detroit Pistons|107
+400489145|2014-12-04|Milwaukee|98|Detroit Pistons|105
+400489173|2014-12-08|Detroit Pistons|95|Miami|110
+400489188|2014-12-10|Detroit Pistons|94|Minnesota|121
+400489196|2014-12-11|New Orleans|111|Detroit Pistons|106
+400489225|2014-12-15|Detroit Pistons|109|Portland|111
+400489229|2014-12-16|Indiana|96|Detroit Pistons|101
+400489259|2014-12-20|Detroit Pistons|106|Charlotte|116
+400489269|2014-12-21|Detroit Pistons|97|Houston|114
+400489301|2014-12-27|Orlando|109|Detroit Pistons|92
+400489312|2014-12-28|Washington|106|Detroit Pistons|82
+400489326|2014-12-30|Detroit Pistons|99|Washington|106
+400489371|2014-01-05|Detroit Pistons|84|Memphis|112
+400489460|2014-01-17|Detroit Pistons|89|Utah|110
+400489468|2014-01-18|Washington|98|Detroit Pistons|104
+400489501|2014-01-22|Milwaukee|104|Detroit Pistons|101
+400489512|2014-01-24|Detroit Pistons|101|New Orleans|103
+400489532|2014-01-26|Dallas|116|Detroit Pistons|106
+400489542|2014-01-28|Detroit Pistons|103|Orlando|87
+400489586|2014-02-03|Miami|102|Detroit Pistons|96
+400489606|2014-02-05|Orlando|112|Detroit Pistons|98
+400489624|2014-02-08|Detroit Pistons|126|Denver|109
+400489639|2014-02-10|Detroit Pistons|109|San Antonio|100
+400489668|2014-02-18|Detroit Pistons|96|Charlotte|108
+400489674|2014-02-19|Charlotte|116|Detroit Pistons|98
+400489692|2014-02-21|Detroit Pistons|115|Atlanta|107
+400489701|2014-02-22|Detroit Pistons|102|Dallas|113
+400489732|2014-02-26|San Antonio|120|Detroit Pistons|110
+400489749|2014-03-01|Houston|118|Detroit Pistons|110
+400489795|2014-03-07|Minnesota|114|Detroit Pistons|101
+400489857|2014-03-15|Detroit Pistons|104|Indiana|112
+400489888|2014-03-19|Denver|118|Detroit Pistons|109
+400489928|2014-03-24|Utah|94|Detroit Pistons|114
+400489952|2014-03-28|Detroit Pistons|78|Miami|110
+400489977|2014-03-31|Detroit Pistons|116|Milwaukee|111
+400489987|2014-04-02|Indiana|101|Detroit Pistons|94
+400532894|2014-04-08|Atlanta|95|Detroit Pistons|102
+400490093|2014-04-16|Oklahoma City|112|Detroit Pistons|111
+400488874|2014-10-29|Indiana Pacers|97|Orlando|87
+400488884|2014-10-30|New Orleans|90|Indiana Pacers|95
+400488972|2014-11-11|Indiana Pacers|95|Memphis|79
+400488998|2014-11-15|Indiana Pacers|104|Milwaukee|77
+400489076|2014-11-25|Indiana Pacers|98|Minnesota|84
+400489088|2014-11-27|Charlotte|74|Indiana Pacers|99
+400489109|2014-11-29|Indiana Pacers|93|Washington|73
+400489133|2014-12-02|Portland|106|Indiana Pacers|102
+400489147|2014-12-04|Utah|86|Indiana Pacers|95
+400489169|2014-12-07|San Antonio|100|Indiana Pacers|111
+400489175|2014-12-08|Oklahoma City|118|Indiana Pacers|94
+400489184|2014-12-10|Indiana Pacers|90|Miami|84
+400489202|2014-12-13|Indiana Pacers|99|Charlotte|94
+400489242|2014-12-18|Miami|97|Indiana Pacers|94
+400489261|2014-12-20|Indiana Pacers|114|Houston|81
+400489362|2014-01-04|Indiana Pacers|99|New Orleans|82
+400489395|2014-01-08|Atlanta|97|Indiana Pacers|87
+400489404|2014-01-10|Indiana Pacers|93|Washington|66
+400489524|2014-01-25|Denver|109|Indiana Pacers|96
+400489583|2014-02-03|Indiana Pacers|98|Orlando|79
+400489594|2014-02-04|Atlanta|85|Indiana Pacers|89
+400489612|2014-02-07|Indiana Pacers|118|Portland|113
+400489634|2014-02-09|Orlando|93|Indiana Pacers|92
+400489637|2014-02-10|Indiana Pacers|119|Denver|80
+400489650|2014-02-12|Indiana Pacers|73|Dallas|81
+400489665|2014-02-18|Indiana Pacers|108|Atlanta|98
+400489678|2014-02-19|Minnesota|104|Indiana Pacers|91
+400489702|2014-02-22|Milwaukee|100|Indiana Pacers|110
+400489736|2014-02-27|Indiana Pacers|101|Milwaukee|96
+400489758|2014-03-02|Indiana Pacers|94|Utah|91
+400489777|2014-03-05|Charlotte|109|Indiana Pacers|87
+400489799|2014-03-07|Houston|112|Indiana Pacers|86
+400489814|2014-03-09|Dallas|105|Indiana Pacers|94
+400489908|2014-03-22|Memphis|82|Indiana Pacers|71
+400489940|2014-03-26|Indiana Pacers|84|Miami|83
+400489950|2014-03-28|Washington|91|Indiana Pacers|78
+400489975|2014-03-31|Indiana Pacers|77|San Antonio|103
+400490025|2014-04-06|Indiana Pacers|88|Atlanta|107
+400490041|2014-04-09|Milwaukee|102|Indiana Pacers|104
+400490053|2014-04-11|Miami|98|Indiana Pacers|86
+400490073|2014-04-13|Indiana Pacers|102|Oklahoma City|97
+400490100|2014-04-16|Orlando|86|Indiana Pacers|101
+400488965|2014-11-09|Milwaukee Bucks|83|Dallas|91
+400488980|2014-11-12|Miami|118|Milwaukee Bucks|95
+400488984|2014-11-13|Orlando|94|Milwaukee Bucks|91
+400489017|2014-11-16|Milwaukee Bucks|79|Oklahoma City|92
+400489040|2014-11-20|Milwaukee Bucks|82|Portland|91
+400489066|2014-11-23|Milwaukee Bucks|72|Charlotte|96
+400489095|2014-11-27|Milwaukee Bucks|92|Washington|100
+400489101|2014-11-29|Charlotte|92|Milwaukee Bucks|76
+400489154|2014-12-06|Washington|105|Milwaukee Bucks|109
+400489194|2014-12-11|Milwaukee Bucks|77|San Antonio|109
+400489221|2014-12-14|Dallas|106|Milwaukee Bucks|93
+400489280|2014-12-23|Charlotte|111|Milwaukee Bucks|110
+400489317|2014-12-28|Milwaukee Bucks|95|Minnesota|117
+400489352|2014-01-02|Utah|96|Milwaukee Bucks|87
+400489421|2014-01-11|Oklahoma City|101|Milwaukee Bucks|85
+400489443|2014-01-15|Milwaukee Bucks|77|Memphis|82
+400489470|2014-01-18|Houston|114|Milwaukee Bucks|104
+400489477|2014-01-19|San Antonio|110|Milwaukee Bucks|82
+400489523|2014-01-25|Milwaukee Bucks|87|Atlanta|112
+400489562|2014-01-31|Orlando|113|Milwaukee Bucks|102
+400489575|2014-02-01|Memphis|99|Milwaukee Bucks|90
+400489607|2014-02-05|Denver|110|Milwaukee Bucks|100
+400489626|2014-02-08|Milwaukee Bucks|95|Houston|101
+400489658|2014-02-12|Milwaukee Bucks|98|New Orleans|102
+400489670|2014-02-18|Milwaukee Bucks|104|Orlando|100
+400489685|2014-02-20|Milwaukee Bucks|90|Denver|101
+400489767|2014-03-03|Milwaukee Bucks|114|Utah|88
+400489796|2014-03-07|New Orleans|112|Milwaukee Bucks|104
+400489804|2014-03-08|Milwaukee Bucks|107|Washington|114
+400489820|2014-03-10|Milwaukee Bucks|105|Orlando|98
+400489827|2014-03-11|Minnesota|112|Milwaukee Bucks|101
+400489842|2014-03-13|Atlanta|102|Milwaukee Bucks|97
+400489860|2014-03-16|Milwaukee Bucks|92|Charlotte|101
+400489878|2014-03-18|Portland|120|Milwaukee Bucks|115
+400489964|2014-03-29|Milwaukee Bucks|67|Miami|88
+400489994|2014-04-02|Miami|96|Milwaukee Bucks|77
+400490064|2014-04-12|Washington|104|Milwaukee Bucks|91
+400490090|2014-04-16|Milwaukee Bucks|103|Atlanta|111
+400488885|2014-10-30|Dallas Mavericks|118|Atlanta|109
+400488898|2014-11-01|Houston|113|Dallas Mavericks|105
+400488909|2014-11-02|Dallas Mavericks|111|Memphis|99
+400488942|2014-11-06|Oklahoma City|107|Dallas Mavericks|93
+400488953|2014-11-08|Minnesota|116|Dallas Mavericks|108
+400488981|2014-11-12|Dallas Mavericks|105|Washington|95
+400489003|2014-11-15|Miami|110|Dallas Mavericks|104
+400489010|2014-11-16|Orlando|100|Dallas Mavericks|108
+400489045|2014-11-20|Dallas Mavericks|123|Houston|120
+400489057|2014-11-22|Dallas Mavericks|103|Utah|93
+400489068|2014-11-23|Denver|102|Dallas Mavericks|100
+400489080|2014-11-25|Dallas Mavericks|96|Denver|110
+400489104|2014-11-29|Atlanta|88|Dallas Mavericks|87
+400489117|2014-11-30|Dallas Mavericks|106|Minnesota|112
+400489139|2014-12-03|Dallas Mavericks|89|Charlotte|82
+400489146|2014-12-04|New Orleans|97|Dallas Mavericks|100
+400489171|2014-12-07|Portland|106|Dallas Mavericks|108
+400489250|2014-12-18|Dallas Mavericks|105|Memphis|91
+400489285|2014-12-23|Houston|104|Dallas Mavericks|111
+400489298|2014-12-26|Dallas Mavericks|107|San Antonio|116
+400489328|2014-12-30|Minnesota|98|Dallas Mavericks|100
+400489341|2014-01-01|Washington|78|Dallas Mavericks|87
+400489393|2014-01-08|San Antonio|112|Dallas Mavericks|90
+400489409|2014-01-10|New Orleans|90|Dallas Mavericks|107
+400489422|2014-01-11|Dallas Mavericks|110|New Orleans|107
+400489433|2014-01-13|Dallas Mavericks|107|Orlando|88
+400489473|2014-01-18|Dallas Mavericks|111|Portland|127
+400489554|2014-01-29|Dallas Mavericks|115|Houston|117
+400489603|2014-02-05|Memphis|96|Dallas Mavericks|110
+400489619|2014-02-07|Dallas Mavericks|103|Utah|81
+400489643|2014-02-11|Charlotte|114|Dallas Mavericks|89
+400489671|2014-02-18|Dallas Mavericks|106|Miami|117
+400489729|2014-02-26|Dallas Mavericks|108|New Orleans|89
+400489761|2014-03-02|San Antonio|112|Dallas Mavericks|106
+400489785|2014-03-05|Denver|115|Dallas Mavericks|110
+400489797|2014-03-07|Dallas Mavericks|103|Portland|98
+400489837|2014-03-12|Utah|101|Dallas Mavericks|108
+400489865|2014-03-16|Oklahoma City|86|Dallas Mavericks|109
+400489887|2014-03-19|Dallas Mavericks|122|Minnesota|123
+400489901|2014-03-21|Dallas Mavericks|122|Denver|106
+400489932|2014-03-25|Dallas Mavericks|128|Oklahoma City|119
+400490032|2014-04-08|Utah|83|Dallas Mavericks|95
+400490047|2014-04-10|Dallas Mavericks|100|San Antonio|109
+400490089|2014-04-16|Memphis|106|Dallas Mavericks|105
+400488882|2014-10-30|Houston Rockets|96|Charlotte|83
+400488911|2014-11-02|Utah|93|Houston Rockets|104
+400488931|2014-11-05|Portland|101|Houston Rockets|116
+400489014|2014-11-16|Houston Rockets|122|Denver|111
+400489065|2014-11-23|Houston Rockets|112|Minnesota|101
+400489079|2014-11-25|Memphis|86|Houston Rockets|93
+400489094|2014-11-27|Houston Rockets|113|Atlanta|84
+400489118|2014-11-30|San Antonio|106|Houston Rockets|112
+400489132|2014-12-02|Utah|109|Houston Rockets|103
+400489174|2014-12-08|Houston Rockets|98|Orlando|88
+400489201|2014-12-12|Portland|111|Houston Rockets|104
+400489294|2014-12-25|San Antonio|98|Houston Rockets|111
+400489297|2014-12-26|Houston Rockets|100|Memphis|92
+400489315|2014-12-28|Houston Rockets|107|New Orleans|98
+400489323|2014-12-29|Oklahoma City|117|Houston Rockets|86
+400489406|2014-01-10|Atlanta|83|Houston Rockets|80
+400489417|2014-01-11|Washington|107|Houston Rockets|114
+400489445|2014-01-15|New Orleans|100|Houston Rockets|103
+400489453|2014-01-16|Houston Rockets|92|Oklahoma City|104
+400489487|2014-01-20|Houston Rockets|126|Portland|113
+400489515|2014-01-24|Houston Rockets|87|Memphis|88
+400489522|2014-01-25|Memphis|99|Houston Rockets|81
+400489544|2014-01-28|Houston Rockets|97|San Antonio|90
+400489641|2014-02-10|Minnesota|89|Houston Rockets|107
+400489657|2014-02-12|Houston Rockets|113|Washington|112
+400489773|2014-03-04|Houston Rockets|106|Miami|103
+400489778|2014-03-05|Orlando|89|Houston Rockets|101
+400489812|2014-03-09|Houston Rockets|118|Portland|113
+400489828|2014-03-11|Oklahoma City|106|Houston Rockets|98
+400489862|2014-03-16|Miami|113|Houston Rockets|104
+400489873|2014-03-17|Houston Rockets|124|Utah|86
+400489892|2014-03-20|Houston Rockets|129|Minnesota|106
+400489920|2014-03-24|Charlotte|89|Houston Rockets|100
+400490012|2014-04-04|Houston Rockets|111|Oklahoma City|107
+400490026|2014-04-06|Houston Rockets|130|Denver|125
+400490044|2014-04-09|Denver|123|Houston Rockets|116
+400490056|2014-04-11|Minnesota|112|Houston Rockets|110
+400490067|2014-04-12|Houston Rockets|111|New Orleans|104
+400490082|2014-04-14|Houston Rockets|104|San Antonio|98
+400490092|2014-04-16|New Orleans|105|Houston Rockets|100
+400488886|2014-10-30|San Antonio|101|Memphis Grizzlies|94
+400488938|2014-11-06|Memphis Grizzlies|84|New Orleans|99
+400489054|2014-11-22|Memphis Grizzlies|86|San Antonio|102
+400489180|2014-12-09|Memphis Grizzlies|94|Orlando|85
+400489193|2014-12-11|Memphis Grizzlies|100|Oklahoma City|116
+400489208|2014-12-13|New Orleans|104|Memphis Grizzlies|98
+400489224|2014-12-15|Memphis Grizzlies|93|Minnesota|101
+400489286|2014-12-23|Memphis Grizzlies|104|Utah|94
+400489316|2014-12-28|Memphis Grizzlies|120|Denver|99
+400489360|2014-01-03|Denver|111|Memphis Grizzlies|108
+400489387|2014-01-07|Memphis Grizzlies|108|San Antonio|110
+400489426|2014-01-12|Memphis Grizzlies|108|Atlanta|101
+400489437|2014-01-14|Memphis Grizzlies|90|Oklahoma City|87
+400489484|2014-01-20|Memphis Grizzlies|92|New Orleans|95
+400489545|2014-01-28|Portland|81|Memphis Grizzlies|98
+400489564|2014-01-31|Minnesota|90|Memphis Grizzlies|94
+400489589|2014-02-03|Oklahoma City|86|Memphis Grizzlies|77
+400489623|2014-02-08|Atlanta|76|Memphis Grizzlies|79
+400489646|2014-02-11|Memphis Grizzlies|92|Washington|89
+400489651|2014-02-12|Orlando|81|Memphis Grizzlies|86
+400489698|2014-02-22|Charlotte|92|Memphis Grizzlies|89
+400489741|2014-02-28|Oklahoma City|113|Memphis Grizzlies|107
+400489763|2014-03-03|Washington|104|Memphis Grizzlies|110
+400489803|2014-03-08|Memphis Grizzlies|111|Charlotte|89
+400489826|2014-03-11|Memphis Grizzlies|109|Portland|99
+400489836|2014-03-12|New Orleans|88|Memphis Grizzlies|90
+400489884|2014-03-19|Memphis Grizzlies|96|Utah|86
+400489900|2014-03-21|Miami|91|Memphis Grizzlies|86
+400489924|2014-03-24|Memphis Grizzlies|109|Minnesota|92
+400489943|2014-03-26|Utah|87|Memphis Grizzlies|91
+400489972|2014-03-30|Portland|105|Memphis Grizzlies|98
+400489982|2014-03-31|Denver|92|Memphis Grizzlies|94
+400489995|2014-04-02|Minnesota|102|Memphis Grizzlies|88
+400490002|2014-04-04|Memphis Grizzlies|100|Denver|92
+400490027|2014-04-06|San Antonio|112|Memphis Grizzlies|92
+400490040|2014-04-09|Memphis Grizzlies|107|Miami|102
+400488894|2014-11-01|Orlando|110|New Orleans Pelicans|90
+400488908|2014-11-02|New Orleans Pelicans|105|Charlotte|84
+400488992|2014-11-13|Utah|111|New Orleans Pelicans|105
+400489042|2014-11-20|New Orleans Pelicans|105|Utah|98
+400489081|2014-11-25|San Antonio|112|New Orleans Pelicans|93
+400489159|2014-12-06|New Orleans Pelicans|95|Oklahoma City|109
+400489227|2014-12-15|Denver|102|New Orleans Pelicans|93
+400489274|2014-12-21|Portland|110|New Orleans Pelicans|107
+400489305|2014-12-27|New Orleans Pelicans|105|Denver|89
+400489329|2014-12-30|New Orleans Pelicans|110|Portland|108
+400489343|2014-01-01|Minnesota|124|New Orleans Pelicans|112
+400489384|2014-01-07|Miami|107|New Orleans Pelicans|88
+400489398|2014-01-08|New Orleans Pelicans|96|Washington|102
+400489432|2014-01-13|New Orleans Pelicans|95|San Antonio|101
+400489529|2014-01-26|New Orleans Pelicans|100|Orlando|92
+400489553|2014-01-29|Minnesota|88|New Orleans Pelicans|77
+400489588|2014-02-03|New Orleans Pelicans|95|San Antonio|102
+400489604|2014-02-05|New Orleans Pelicans|105|Atlanta|100
+400489620|2014-02-07|New Orleans Pelicans|98|Minnesota|91
+400489688|2014-02-21|Charlotte|90|New Orleans Pelicans|87
+400489699|2014-02-22|Washington|94|New Orleans Pelicans|93
+400489809|2014-03-09|New Orleans Pelicans|111|Denver|107
+400489850|2014-03-14|New Orleans Pelicans|103|Portland|111
+400489898|2014-03-21|Atlanta|105|New Orleans Pelicans|111
+400489909|2014-03-22|New Orleans Pelicans|105|Miami|95
+400489955|2014-03-28|New Orleans Pelicans|102|Utah|95
+400489965|2014-03-29|San Antonio|96|New Orleans Pelicans|80
+400489997|2014-04-02|Denver|137|New Orleans Pelicans|107
+400490011|2014-04-04|Utah|100|New Orleans Pelicans|96
+400490030|2014-04-06|Portland|100|New Orleans Pelicans|94
+400490057|2014-04-11|Oklahoma City|116|New Orleans Pelicans|94
+400490083|2014-04-14|New Orleans Pelicans|101|Oklahoma City|89
+400488912|2014-11-02|Portland|115|San Antonio Spurs|105
+400488930|2014-11-05|Denver|94|San Antonio Spurs|102
+400488990|2014-11-13|San Antonio Spurs|92|Washington|79
+400489006|2014-11-15|Utah|82|San Antonio Spurs|91
+400489097|2014-11-27|Oklahoma City|94|San Antonio Spurs|88
+400489102|2014-11-29|Orlando|91|San Antonio Spurs|109
+400489131|2014-12-02|San Antonio Spurs|102|Atlanta|100
+400489211|2014-12-13|San Antonio Spurs|117|Minnesota|110
+400489222|2014-12-14|Utah|84|San Antonio Spurs|100
+400489272|2014-12-21|San Antonio Spurs|100|Oklahoma City|113
+400489427|2014-01-12|San Antonio Spurs|104|Minnesota|86
+400489446|2014-01-15|San Antonio Spurs|109|Utah|105
+400489462|2014-01-17|San Antonio Spurs|100|Portland|109
+400489503|2014-01-22|San Antonio Spurs|105|Oklahoma City|111
+400489508|2014-01-24|Atlanta|79|San Antonio Spurs|105
+400489527|2014-01-26|Miami|113|San Antonio Spurs|101
+400489600|2014-02-05|Washington|118|San Antonio Spurs|125
+400489622|2014-02-08|Charlotte|100|San Antonio Spurs|104
+400489682|2014-02-19|Portland|109|San Antonio Spurs|111
+400489744|2014-02-28|San Antonio Spurs|92|Charlotte|82
+400489787|2014-03-06|San Antonio Spurs|111|Miami|87
+400489805|2014-03-08|San Antonio Spurs|121|Orlando|112
+400489838|2014-03-12|San Antonio Spurs|103|Portland|90
+400489866|2014-03-16|San Antonio Spurs|122|Utah|104
+400489941|2014-03-26|San Antonio Spurs|108|Denver|103
+400489957|2014-03-28|Denver|102|San Antonio Spurs|133
+400490000|2014-04-03|Oklahoma City|106|San Antonio Spurs|94
+400528655|2014-04-08|Minnesota|110|San Antonio Spurs|91
+400488944|2014-11-07|Denver|109|Atlanta Hawks|107
+400488959|2014-11-09|Atlanta Hawks|104|Orlando|94
+400488971|2014-11-11|Charlotte|94|Atlanta Hawks|103
+400489031|2014-11-19|Miami|104|Atlanta Hawks|88
+400489086|2014-11-26|Atlanta Hawks|92|Orlando|109
+400489114|2014-11-30|Washington|108|Atlanta Hawks|101
+400489186|2014-12-10|Atlanta Hawks|92|Oklahoma City|101
+400489205|2014-12-13|Atlanta Hawks|101|Washington|99
+400489257|2014-12-20|Atlanta Hawks|118|Utah|85
+400489284|2014-12-23|Miami|121|Atlanta Hawks|119
+400489313|2014-12-28|Atlanta Hawks|118|Charlotte|116
+400489322|2014-12-29|Orlando|109|Atlanta Hawks|102
+400489485|2014-01-20|Atlanta Hawks|121|Miami|114
+400489496|2014-01-22|Orlando|109|Atlanta Hawks|112
+400489539|2014-01-27|Oklahoma City|111|Atlanta Hawks|109
+400489572|2014-02-01|Atlanta Hawks|120|Minnesota|113
+400489677|2014-02-19|Atlanta Hawks|97|Washington|114
+400489786|2014-03-05|Portland|102|Atlanta Hawks|78
+400489821|2014-03-10|Utah|110|Atlanta Hawks|112
+400489856|2014-03-15|Atlanta Hawks|97|Denver|92
+400489869|2014-03-17|Charlotte|83|Atlanta Hawks|97
+400489938|2014-03-26|Minnesota|107|Atlanta Hawks|83
+400489944|2014-03-27|Atlanta Hawks|85|Portland|100
+400489962|2014-03-29|Washington|101|Atlanta Hawks|97
+400490065|2014-04-12|Atlanta Hawks|98|Miami|85
+400490080|2014-04-14|Atlanta Hawks|93|Charlotte|95
+400489009|2014-11-16|Charlotte Hornets|81|Miami|97
+400489125|2014-12-01|Miami|99|Charlotte Hornets|98
+400489191|2014-12-11|Charlotte Hornets|83|Orlando|92
+400489267|2014-12-21|Charlotte Hornets|85|Utah|88
+400489300|2014-12-27|Charlotte Hornets|85|Oklahoma City|89
+400489331|2014-12-30|Utah|83|Charlotte Hornets|80
+400489353|2014-01-02|Portland|134|Charlotte Hornets|104
+400489381|2014-01-07|Charlotte Hornets|83|Washington|97
+400489408|2014-01-10|Minnesota|119|Charlotte Hornets|92
+400489455|2014-01-17|Orlando|101|Charlotte Hornets|111
+400489466|2014-01-18|Charlotte Hornets|96|Miami|104
+400489555|2014-01-29|Denver|98|Charlotte Hornets|101
+400489760|2014-03-02|Oklahoma City|116|Charlotte Hornets|99
+400489766|2014-03-03|Miami|124|Charlotte Hornets|107
+400489816|2014-03-10|Charlotte Hornets|105|Denver|98
+400489834|2014-03-12|Washington|85|Charlotte Hornets|98
+400489844|2014-03-14|Charlotte Hornets|105|Minnesota|93
+400489905|2014-03-22|Charlotte Hornets|124|Portland|94
+400489948|2014-03-28|Orlando|110|Charlotte Hornets|105
+400489974|2014-03-31|Charlotte Hornets|100|Washington|94
+400490003|2014-04-04|Charlotte Hornets|91|Orlando|80
+400490038|2014-04-09|Washington|88|Charlotte Hornets|94
+400488915|2014-11-03|Miami Heat|103|Washington|93
+400489037|2014-11-20|Orlando|92|Miami Heat|120
+400489064|2014-11-23|Miami Heat|101|Orlando|99
+400489167|2014-12-07|Minnesota|82|Miami Heat|103
+400489233|2014-12-16|Miami Heat|117|Utah|94
+400489319|2014-12-28|Portland|107|Miami Heat|108
+400489330|2014-12-30|Denver|94|Miami Heat|97
+400489363|2014-01-04|Orlando|94|Miami Heat|110
+400489441|2014-01-15|Washington|114|Miami Heat|97
+400489548|2014-01-29|Miami Heat|95|Oklahoma City|112
+400489628|2014-02-08|Utah|94|Miami Heat|89
+400489686|2014-02-20|Oklahoma City|81|Miami Heat|103
+400489747|2014-03-01|Miami Heat|112|Orlando|98
+400489818|2014-03-10|Miami Heat|99|Washington|90
+400489849|2014-03-14|Miami Heat|107|Denver|111
+400489922|2014-03-24|Miami Heat|93|Portland|91
+400490008|2014-04-04|Miami Heat|121|Minnesota|122
+400490079|2014-04-14|Washington|114|Miami Heat|93
+400488883|2014-10-30|Minnesota|120|Orlando Magic|115
+400489129|2014-12-02|Washington|98|Orlando Magic|80
+400489226|2014-12-15|Oklahoma City|101|Orlando Magic|98
+400489243|2014-12-18|Orlando Magic|82|Utah|86
+400489400|2014-01-08|Portland|110|Orlando Magic|94
+400489423|2014-01-11|Denver|120|Orlando Magic|94
+400489613|2014-02-07|Orlando Magic|103|Oklahoma City|102
+400489721|2014-02-25|Washington|115|Orlando Magic|106
+400489831|2014-03-12|Orlando Magic|112|Denver|120
+400489845|2014-03-14|Orlando Magic|101|Washington|105
+400489910|2014-03-22|Utah|89|Orlando Magic|88
+400489931|2014-03-25|Orlando Magic|95|Portland|85
+400490016|2014-04-05|Orlando Magic|100|Minnesota|92
+400490049|2014-04-11|Orlando Magic|86|Washington|96
+400488968|2014-11-10|Oklahoma City|106|Washington Wizards|105
+400489029|2014-11-19|Washington Wizards|104|Minnesota|100
+400489179|2014-12-09|Washington Wizards|74|Denver|75
+400489304|2014-12-27|Minnesota|120|Washington Wizards|98
+400489525|2014-01-25|Utah|104|Washington Wizards|101
+400489571|2014-02-01|Washington Wizards|96|Oklahoma City|81
+400489584|2014-02-03|Washington Wizards|100|Portland|90
+400489779|2014-03-05|Washington Wizards|104|Utah|91
+400489893|2014-03-20|Portland|116|Washington Wizards|103
+400489915|2014-03-23|Denver|105|Washington Wizards|102
+400488902|2014-11-01|Denver Nuggets|98|Portland|113
+400488977|2014-11-11|Utah|81|Denver Nuggets|100
+400489004|2014-11-15|Denver Nuggets|117|Minnesota|113
+400489025|2014-11-18|Oklahoma City|115|Denver Nuggets|113
+400489096|2014-11-27|Minnesota|110|Denver Nuggets|117
+400489212|2014-12-13|Denver Nuggets|93|Utah|103
+400489240|2014-12-17|Denver Nuggets|93|Oklahoma City|105
+400489403|2014-01-09|Denver Nuggets|101|Oklahoma City|88
+400489434|2014-01-13|Utah|118|Denver Nuggets|103
+400489505|2014-01-23|Portland|110|Denver Nuggets|105
+400489659|2014-02-12|Minnesota|117|Denver Nuggets|90
+400489723|2014-02-25|Denver Nuggets|95|Portland|100
+400489753|2014-03-01|Portland|102|Denver Nuggets|96
+400489768|2014-03-03|Denver Nuggets|128|Minnesota|132
+400489926|2014-03-24|Oklahoma City|117|Denver Nuggets|96
+400490069|2014-04-12|Denver Nuggets|101|Utah|94
+400488900|2014-11-01|Minnesota Timberwolves|100|Oklahoma City|81
+400489126|2014-12-01|Oklahoma City|113|Minnesota Timberwolves|103
+400489249|2014-12-18|Minnesota Timberwolves|120|Portland|109
+400489366|2014-01-04|Minnesota Timberwolves|111|Oklahoma City|115
+400489471|2014-01-18|Minnesota Timberwolves|98|Utah|72
+400489493|2014-01-21|Utah|97|Minnesota Timberwolves|112
+400489526|2014-01-25|Portland|115|Minnesota Timberwolves|104
+400489605|2014-02-05|Oklahoma City|106|Minnesota Timberwolves|97
+400489625|2014-02-08|Minnesota Timberwolves|110|Portland|117
+400489703|2014-02-22|Utah|104|Minnesota Timberwolves|121
+400489713|2014-02-23|Portland|108|Minnesota Timberwolves|97
+400490091|2014-04-16|Minnesota Timberwolves|130|Utah|136
+400488887|2014-10-30|Utah|98|Oklahoma City Thunder|101
+400489073|2014-11-24|Oklahoma City Thunder|95|Utah|73
+400489149|2014-12-04|Portland|111|Oklahoma City Thunder|104
+400489339|2014-12-31|Oklahoma City Thunder|94|Portland|98
+400489391|2014-01-07|Utah|112|Oklahoma City Thunder|101
+400489492|2014-01-21|Oklahoma City Thunder|105|Portland|97
+400489648|2014-02-11|Portland|95|Oklahoma City Thunder|98
+400489966|2014-03-30|Oklahoma City Thunder|116|Utah|96
+400489161|2014-12-06|Portland Trail Blazers|130|Utah|98
+400489181|2014-12-09|Utah|94|Portland Trail Blazers|105
+400489696|2014-02-21|Portland Trail Blazers|102|Utah|94
+400490060|2014-04-11|Utah|99|Portland Trail Blazers|111
