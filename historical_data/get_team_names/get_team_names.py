@@ -3,25 +3,25 @@ import requests
 from bs4 import BeautifulSoup
 import os
 
-url = 'http://espn.go.com/nba/teams'
+url = 'http://www.espn.com/nba/teams'
 r = requests.get(url)
 
 soup = BeautifulSoup(r.text)
-tables = soup.find_all('ul', class_='medium-logos')
+divisions = soup.find_all('section', class_='ContentList mt4 ContentList--NoBorder')
 
 teams = []
 prefix_1 = []
 prefix_2 = []
 teams_urls = []
-for table in tables:
-    lis = table.find_all('li')
-    for li in lis:
-        info = li.h5.a
-        teams.append(info.text)
-        url = info['href']
-        teams_urls.append(url)
-        prefix_1.append(url.split('/')[-2])
-        prefix_2.append(url.split('/')[-1])
+
+for division in divisions:
+    for team in division.find_all('section', class_='ContentList__Item'):
+        team_url = team.find('div').find('section').find('a')['href']
+        team_name = team.find('div').find('section').find('div', class_='pl3').find('a').find('h2').text
+        teams.append(team_name)
+        teams_urls.append('www.espn.com' + team_url)
+        prefix_1.append(team_url.split('/')[-2])
+        prefix_2.append(team_url.split('/')[-1])
 
 
 dic = {'url': teams_urls, 'prefix_2': prefix_2, 'prefix_1': prefix_1}

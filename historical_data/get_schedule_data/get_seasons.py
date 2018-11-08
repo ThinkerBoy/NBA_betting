@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime, date
 from get_games import get_games
 
-years = [2012, 2013, 2014, 2015, 2016]
+years = list(range(2003,2019,1))
 
 for year in years:
 	print(year)
